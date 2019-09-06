@@ -1,6 +1,6 @@
 title: Researcher
 url: "https://ankitsultana.com"
-baseurl: "/researcher"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -8,8 +8,7 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/yoanchabot"
-footer_text: "Page design by Ankit Sultana"
+footer_text: "Powered by Jekyll and \"researcher\" by Ankit Sultana"
 
 sass:
     style: compressed
@@ -17,7 +16,9 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "index"
+ - name: "Publications"
+   link: "publications" 
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
