@@ -10,16 +10,20 @@ layout: default
 ## Conferences
 
 * Chabot, Y., Grohan P., Le Calvez, G., & Tarnec, C (2019, January). Dataforum : Faciliter l'échange, la découverte et la valorisation des données à l'aide de technologies sémantiques. In EGC 2019 : Extraction et gestion des connaissances.
-* Chabot, Y., Bertaux, A., Kechadi, T., & Nicolle, C. (2015). De la scène de crime aux connaissances: représentation d’évènements et peuplement d’ontologie appliqués au domaine de la criminalistique informatique. 12ème atelier sur la Fouille de Données Complexes (FDC) Extraction et Gestion des Connaissances (EGC 2015).
+* Chabot, Y., Bertaux, A., Nicolle, C., & Kechadi, T. (2015). De la scène de crime aux connaissances: représentation d’évènements et peuplement d’ontologie appliqués au domaine de la criminalistique informatique. 12ème atelier sur la Fouille de Données Complexes (FDC) Extraction et Gestion des Connaissances (EGC 2015).
 * Chabot, Y., Bertaux, A., Nicolle, C., & Kechadi, T. (2014, September). Automatic timeline construction and analysis for computer forensics purposes. In 2014 IEEE Joint Intelligence and Security Informatics Conference (pp. 276-279). IEEE.
-* Kechadi, T., Chabot, Y., Bertaux, A., & Nicolle, C. (2014, January). Reconstruction et analyse sémantique de chronologies cybercriminelles. In EGC 2014 : Extraction et gestion des connaissances (pp. 521-524).
+* Chabot, Y., Bertaux, A., Nicolle, C., & Kechadi, T. (2014, January). Reconstruction et analyse sémantique de chronologies cybercriminelles. In EGC 2014 : Extraction et gestion des connaissances (pp. 521-524).
 
 
 ## Book Chapters
 
-* Chabot, Y., Bertaux, A., Kechadi, T., & Nicolle, C. (2015). Event reconstruction: A state of the art. In Handbook of Research on Digital Crime, Cyberspace Security, and Information Assurance (pp. 231-245). IGI Global.
+* Chabot, Y., Bertaux, A., Nicolle, C. & Kechadi, T. (2015). Event reconstruction: A state of the art. In Handbook of Research on Digital Crime, Cyberspace Security, and Information Assurance (pp. 231-245). IGI Global.
 * Chabot, Y., & Nicolle, C. (2015). Semantic Measures. In Encyclopedia of Information Science and Technology, Third Edition (pp. 4690-4698). IGI Global.
 
 ## PhD Thesis
 
 * Chabot, Y. Construction, Enrichment and Semantic Analysis of Timelines: Application to Digital Forensics (Doctoral dissertation, University College Dublin / University of Burgundy).
+
+## Master Thesis
+
+* ...

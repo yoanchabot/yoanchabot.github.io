@@ -1,5 +1,5 @@
-title: Researcher
-url: "https://ankitsultana.com"
+title: Yoan Chabot
+url: "http://yoanchabot.github.io"
 baseurl: ""
 
 markdown: kramdown
@@ -17,8 +17,14 @@ sass:
 nav:
  - name: "About"
    link: "index"
+ - name: "Research"
+   link: "research"
  - name: "Publications"
    link: "publications" 
+ - name: "Teaching"
+   link: "teaching"
+ - name: "Others"
+   link: "others"    
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"

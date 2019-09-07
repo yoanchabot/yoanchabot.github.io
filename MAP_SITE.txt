@@ -1,8 +1,4 @@
--Carte identité
--Professional activities
-	Current job and past jobs or activities
-	Review
--Publications
+
 -Teaching and students
 -Formation
 -CV
@@ -16,24 +12,18 @@
 
 
 -Orienter CV Linkedin et CV en ligne sur le thème de l'IA
--Supprimer le superflu
 -Ajouter formation et attestation dans CV en ligne (formations ORANGE)
 -MAJ bloc contact
 -MAJ résumé
 
--Ajouter Digital Investigation Editorial Board dans section Responsabilités Recherche
--Ajouter Conférence K-CAP dans program comitte
+
 -MAJ projet en cours -> ancien projets
 -Ajout mon Github dans minimap
 -Ajout des projets Hobbies et liens vers Github
 
--Ajout section Guitar?
 
 -Ajouter summer school RW2018
--Ajouter encadrement stagiaire Nicolas Geist
--Ajouter participation concours MDF et participation régulière concours coding
 
--Ajouter tennis
 -Ajouter formation SST et autres formations chez Orange (voir le site Orange Learning)
 
 
