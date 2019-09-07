@@ -1,5 +1,6 @@
 ---
 layout: default
+title: About Me
 ---
 
 ## About Me
@@ -10,7 +11,7 @@ Bonjour!
 
 L'objectif principal de ce site est de donner de la visibilité à mes activités professionnelles et personnelles.
 
-Je suis chercheur dans l'entité DATA-IA à Orange Labs Belfort. 
+Je suis chercheur dans l'entité DATA-IA à Orange Labs Belfort.
 
 Mes travaux de recherches portent sur ... (mettre les mots-clefs en gras)
 
@@ -51,4 +52,3 @@ Here is a blockquote
 
 * Foo Bar: Head of Department, Placeholder Names, Lorem
 * John Doe: Associate Professor, Department of Computer Science, Ipsum
-

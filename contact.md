@@ -1,26 +1,27 @@
 ---
 layout: default
 is_contact: true
+title: Contact
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+## Contact Infos
 
-* Phone: [+91-123123](tel:+91-123123)
-
----
-
-## Mailing Address
-
-> 221B, Baker Street
+* Business email: [yoan.chabot@orange.com](mailto:yoan.chabot@orange.com)
+* Email: [yoan.chabot@hotmail.fr](mailto:yoan.chabot@hotmail.fr)
+* Mailing address:
+> Bâtiment 12
 >
-> London
+> 1 rue Broglie
 >
-> United Kingdom
+> 90000 Belfort
+>
+> FRANCE
 
 ---
 
 ## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Google Scholar](http://scholar.google.fr/citations?user=QKcqdfoAAAAJ)
+2. [Research Gate](https://www.researchgate.net/profile/Yoan_Chabot/)
+3. [HAL](https://cv.archives-ouvertes.fr/yoan-chabot)
+4. [Developpez.com](http://www.developpez.net/forums/u207506/metafire18)
+5. [Facebook](https://www.facebook.com/chabot.yoan)
