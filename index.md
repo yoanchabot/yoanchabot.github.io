@@ -7,9 +7,7 @@ title: About Me
 
 <img class="profile-picture" src="me.jpg">
 
-Hello!
-
-The main objective of this site is to give visibility to my professional activities and hobbies.
+Welcome to my personal page giving visibility to my professional activities and hobbies!
 
 I have been a researcher in the DATA-IA entity at [Orange Labs Belfort](https://hellofuture.orange.com/fr/) since 2014.
 My research focuses on the use of **knowledge engineering** in different application contexts:
