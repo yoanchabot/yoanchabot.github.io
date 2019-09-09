@@ -27,4 +27,3 @@ title: Contact
 4. [Developpez.com](http://www.developpez.net/forums/u207506/metafire18)
 5. [Github](https://github.com/yoanchabot)
 6. [Twitter](https://twitter.com/yoan_chabot)
-7. [Facebook](https://www.facebook.com/chabot.yoan)

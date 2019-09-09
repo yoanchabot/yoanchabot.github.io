@@ -24,7 +24,6 @@ Here are some nice races in French-County or nearby:
 * [Trail du pont Sarrazin](http://trail-pont-sarrazin.com/)
 * [Trail des bornes](https://traildesbornes.jimdo.com/)
 
-I have also been playing tennis for a few years now ([ranking](https://tenup.fft.fr/palmares/108982967))
 
 ## Music/Reading/Video Games/...
 ![Music]({{ site.baseurl }}/images/music.jpg "Music")
