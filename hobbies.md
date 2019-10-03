@@ -9,7 +9,7 @@ Some information and links about my hobbies :-)
 ![Algorithm]({{ site.baseurl }}/images/algorithm.jpg "Algorithm")
 
 I regularly participate in algorithmic competitions:
-* Participation in the contest Meilleur développeur de France 2018, ["Meilleur développeur de France 2019"](https://mdf19.com/)
+* Participation in the contests ["Meilleur développeur de France 2018, 2019"](https://mdf19.com/)
 * 1st irish team of the ["ACM ICPC United Kingdom and Ireland Programming Contest 2013"](http://ukiepc.info/)
 * Finalist of the "Gosucoder National Coding Challenge 2013" organized by the company [Guidewire](https://www.guidewire.com/)
 
@@ -30,7 +30,7 @@ Here are some nice races in French-County or nearby:
 
 I have been playing guitar for about fifteen years and bass guitar recently in a small cover band.
 
-I am always up for a game of Age of Empires 2, Team Fortress 2, Rocket League and many others...
+I am always up for a game of Age of Empires 2, Team Fortress 2, Rocket League, Battlefront 2 and many others...
 
 Join me on [Steam](https://steamcommunity.com/profiles/76561198042810574/) ;-)
 
