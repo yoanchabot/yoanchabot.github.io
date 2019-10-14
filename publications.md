@@ -28,3 +28,6 @@ title: Publications
 ## Master Thesis
 
 * ...
+
+## Other communications
+* Chabot, Y., Privat, G. & Ramparany, F. (2017) "Le sens du sens : les ontologies, ce n’est pas (que) de la philosophie !". In Research Blog of Orange, https://hellofuture.orange.com/fr/le-sens-du-sens-les-ontologies-ce-nest-pas-que-de-la-philosophie/
