@@ -9,7 +9,7 @@ Some information and links about my hobbies :-)
 ![Algorithm]({{ site.baseurl }}/images/algorithm.jpg "Algorithm")
 
 I regularly participate in algorithmic competitions:
-* Participation in the contests ["Meilleur développeur de France 2018, 2019"](https://mdf19.com/)
+* Participation in the contests ["Meilleur développeur de France 2018, 2019 (Finalist)"](https://mdf19.com/)
 * 1st irish team of the ["ACM ICPC United Kingdom and Ireland Programming Contest 2013"](http://ukiepc.info/)
 * Finalist of the "Gosucoder National Coding Challenge 2013" organized by the company [Guidewire](https://www.guidewire.com/)
 
