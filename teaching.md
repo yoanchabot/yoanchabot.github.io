@@ -5,11 +5,12 @@ title: Teaching
 
 ## Students (current)
 
-* [2019- ] Jixiong Liu for his PhD co-supervised with Raphaël Troncy ([EURECOM](http://www.eurecom.fr)), "Production and valorization of semantic annotation on structured datasets through a recommendation process based on graph embedding techniques"
+* [2020- ] Jixiong Liu for his PhD co-supervised with Raphaël Troncy ([EURECOM](http://www.eurecom.fr)), "Production and valorization of semantic annotation on structured datasets through a recommendation process based on graph embedding techniques"
+* [2020] Antoine Py for his final year internship at [ESIGELEC Rouen](http://www.esigelec.fr/), "Development of a Web application for annotation and semantic integration of tabular data"
 
 ## Students (past)
 
-* [2019] Jixiong Liu for his final year internship at [ESIGELEC Rouen](http://www.esigelec.fr/), "Implementation of a prototype for annotating tabular data using semantic models"
+* [2019] Jixiong Liu for his final year internship at [University of Montbéliard](http://www.univ-fcomte.fr/), "Implementation of a prototype for annotating tabular data using semantic models"
 * [2018] Nicolas Geist for his final year internship at [INSA Lyon](https://www.insa-lyon.fr/), "Development of a platform for detecting illegal activities using knowledge engineering and machine learning"
 
 ## Courses
