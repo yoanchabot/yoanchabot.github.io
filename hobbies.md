@@ -35,6 +35,7 @@ I am always up for a game of Age of Empires 2, Team Fortress 2, Rocket League, B
 Join me on [Steam](https://steamcommunity.com/profiles/76561198042810574/) ;-)
 
 Some great books I love and recommend (for SF and heroic fantasy lovers):
+* [The Witcher](https://en.wikipedia.org/wiki/The_Witcher)/[Le Sorceleur](https://fr.wikipedia.org/wiki/Le_Sorceleur) by Andrzej Sapkowski
 * [The Dark Tower](https://en.wikipedia.org/wiki/The_Dark_Tower_(series))/[La Tour Sombre](https://fr.wikipedia.org/wiki/La_Tour_sombre) by Stephen King
 * [Foundation](https://en.wikipedia.org/wiki/Foundation_(Asimov_novel))/[Fondation](https://fr.wikipedia.org/wiki/Fondation_(Asimov)) by Isaac Asimov
 * [Thrawn Trilogy](https://en.wikipedia.org/wiki/Thrawn_trilogy)/[La Croisade Noire du Jedi Fou](https://fr.wikipedia.org/wiki/La_Croisade_noire_du_Jedi_fou) by Thimothy Zhan
