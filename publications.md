@@ -30,4 +30,5 @@ title: Publications
 * ...
 
 ## Other communications
-* Chabot, Y., Privat, G. & Ramparany, F. (2017) "Le sens du sens : les ontologies, ce n’est pas (que) de la philosophie !". In Research Blog of Orange, https://hellofuture.orange.com/fr/le-sens-du-sens-les-ontologies-ce-nest-pas-que-de-la-philosophie/
+* Chabot, Y., Grohan, P. & Tarnec, C. (2020) "Data sharing and processing: the new Tower of Babel?". In Research Blog of Orange, https://hellofuture.orange.com/en/data-sharing-and-processing-the-new-tower-of-babel/
+* Ramparany, F., Privat, G. & Chabot, Y. (2017) "Ontologies for the rest of us!". In Research Blog of Orange, https://hellofuture.orange.com/en/ontologies-for-the-rest-of-us/
