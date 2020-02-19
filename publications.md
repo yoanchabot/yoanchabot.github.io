@@ -30,5 +30,5 @@ title: Publications
 * ...
 
 ## Other communications
-* Chabot, Y., Grohan, P. & Tarnec, C. (2020) "Data sharing and processing: the new Tower of Babel?". In Research Blog of Orange, https://hellofuture.orange.com/en/data-sharing-and-processing-the-new-tower-of-babel/
-* Ramparany, F., Privat, G. & Chabot, Y. (2017) "Ontologies for the rest of us!". In Research Blog of Orange, https://hellofuture.orange.com/en/ontologies-for-the-rest-of-us/
+* Chabot, Y., Grohan, P. & Tarnec, C. (2020) "Data sharing and processing: the new Tower of Babel?". In Research Blog of Orange, [https://hellofuture.orange.com/en/data-sharing-and-processing-the-new-tower-of-babel/](https://hellofuture.orange.com/en/data-sharing-and-processing-the-new-tower-of-babel/) 
+* Ramparany, F., Privat, G. & Chabot, Y. (2017) "Ontologies for the rest of us!". In Research Blog of Orange, [https://hellofuture.orange.com/en/ontologies-for-the-rest-of-us/](https://hellofuture.orange.com/en/ontologies-for-the-rest-of-us/)
