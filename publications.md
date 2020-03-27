@@ -6,11 +6,11 @@ title: Publications
 ## Journal Articles
 
 * Yoan Chabot, Aurélie Bertaux, Christophe Nicolle and Tahar Kechadi. [An ontology-based approach for the reconstruction and analysis of digital incidents timelines](https://www.sciencedirect.com/science/article/abs/pii/S1742287615000869). In [Digital Investigation](https://www.sciencedirect.com/journal/digital-investigation), 15, pages 83-100, 2015.
-* Chabot, Y., Bertaux, A., Nicolle, C., & Kechadi, M. T. (2014). A complete formalized knowledge representation model for advanced digital forensics timeline analysis. Digital Investigation, 11, S95-S105.
+* Yoan Chabot, Aurélie Bertaux, Christophe Nicolle and Tahar Kechadi. [A complete formalized knowledge representation model for advanced digital forensics timeline analysis](https://www.sciencedirect.com/science/article/pii/S1742287614000528). In [Digital Investigation](https://www.sciencedirect.com/journal/digital-investigation), 11, pages 95-105, 2014.
 
 ## Conferences
 
-* Chabot, Y., Labbé, T., Liu, J., & Troncy, R. (2019). DAGOBAH: An End-to-End Context-Free Tabular Data Semantic Annotation System. In Semantic Web Challenge on Tabular Data to Knowledge Graph Matching, ISWC 2019.
+* Yoan Chabot, Thomas Labbé, Jixiong Liu and Raphaël Troncy. [DAGOBAH: An End-to-End Context-Free Tabular Data Semantic Annotation System](http://ceur-ws.org/Vol-2553/paper6.pdf). In Semantic Web Challenge on Tabular Data to Knowledge Graph Matching, [ISWC 2019](https://iswc2019.semanticweb.org/), Auckland, New Zealand, October 26-30, 2019.
 * Chabot, Y., Grohan P., Le Calvez, G., & Tarnec, C (2019, January). Dataforum : Faciliter l'échange, la découverte et la valorisation des données à l'aide de technologies sémantiques. In EGC 2019 : Extraction et gestion des connaissances.
 * Chabot, Y., Bertaux, A., Nicolle, C., & Kechadi, T. (2015). De la scène de crime aux connaissances: représentation d’évènements et peuplement d’ontologie appliqués au domaine de la criminalistique informatique. 12ème atelier sur la Fouille de Données Complexes (FDC) Extraction et Gestion des Connaissances (EGC 2015).
 * Chabot, Y., Bertaux, A., Nicolle, C., & Kechadi, T. (2014, September). Automatic timeline construction and analysis for computer forensics purposes. In 2014 IEEE Joint Intelligence and Security Informatics Conference (pp. 276-279). IEEE.
