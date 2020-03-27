@@ -18,17 +18,14 @@ title: Publications
 
 ## Book Chapters
 
-* Chabot, Y., Bertaux, A., Nicolle, C. & Kechadi, T. (2015). Event reconstruction: A state of the art. In Handbook of Research on Digital Crime, Cyberspace Security, and Information Assurance (pp. 231-245). IGI Global.
-* Chabot, Y., & Nicolle, C. (2015). Semantic Measures. In Encyclopedia of Information Science and Technology, Third Edition (pp. 4690-4698). IGI Global.
+* Yoan Chabot, Aurélie Bertaux, Christophe Nicolle and Tahar Kechadi. [Event reconstruction: A state of the art](https://www.igi-global.com/chapter/event-reconstruction/115760). In [Handbook of Research on Digital Crime, Cyberspace Security, and Information Assurance](https://www.igi-global.com/book/handbook-research-digital-crime-cyberspace/104750), pages 231-245, 2015. IGI Global.
+* Yoan Chabot and Christophe Nicolle. [Semantic Measures](https://www.igi-global.com/chapter/semantic-measures/112911). In [Encyclopedia of Information Science and Technology](https://www.igi-global.com/book/encyclopedia-information-science-technology-third/76156), pages 4690-4698, 2015. IGI Global.
 
 ## PhD Thesis
 
-* Chabot, Y. Construction, Enrichment and Semantic Analysis of Timelines: Application to Digital Forensics (Doctoral dissertation, University College Dublin / University of Burgundy).
-
-## Master Thesis
-
-* ...
+* Yoan Chabot. [Construction, Enrichment and Semantic Analysis of Timelines: Application to Digital Forensics](http://www.theses.fr/2015DIJOS037/document), University College Dublin, Dublin, Ireland and University of Burgundy, Dijon, France, 2014. PhD Supervisors : [Christophe Nicolle](https://scholar.google.fr/citations?user=sIwxy6IAAAAJ&hl=fr), [Aurélie Bertaux](https://scholar.google.fr/citations?hl=fr&user=virzKdYAAAAJ) and [Tahar Kechadi](https://people.ucd.ie/tahar.kechadi).
 
 ## Other communications
-* Chabot, Y., Grohan, P. & Tarnec, C. (2020) "Data sharing and processing: the new Tower of Babel?". In Research Blog of Orange, [https://hellofuture.orange.com/en/data-sharing-and-processing-the-new-tower-of-babel/](https://hellofuture.orange.com/en/data-sharing-and-processing-the-new-tower-of-babel/) 
-* Ramparany, F., Privat, G. & Chabot, Y. (2017) "Ontologies for the rest of us!". In Research Blog of Orange, [https://hellofuture.orange.com/en/ontologies-for-the-rest-of-us/](https://hellofuture.orange.com/en/ontologies-for-the-rest-of-us/)
+
+* Yoan Chabot, Patrick Grohan and Christèle Tarnec. [Data sharing and processing: the new Tower of Babel?](https://hellofuture.orange.com/en/data-sharing-and-processing-the-new-tower-of-babel/). In Orange Hello Future Research Blog, 2020.
+* Yoan Chabot, Gilles Privat and Fano Ramparany. [Ontologies for the rest of us!](https://hellofuture.orange.com/en/ontologies-for-the-rest-of-us/). In Orange Hello Future Research Blog, 2017.
