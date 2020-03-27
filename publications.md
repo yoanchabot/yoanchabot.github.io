@@ -5,7 +5,7 @@ title: Publications
 
 ## Journal Articles
 
-* Yoan Chabot, Aurélie Bertaux, Christophe Nicolle and Tahar Kechadi. [https://www.sciencedirect.com/science/article/abs/pii/S1742287615000869](An ontology-based approach for the reconstruction and analysis of digital incidents timelines). In [https://www.sciencedirect.com/journal/digital-investigation](Digital Investigation), 15, pages 83-100, 2015.
+* Yoan Chabot, Aurélie Bertaux, Christophe Nicolle and Tahar Kechadi. [An ontology-based approach for the reconstruction and analysis of digital incidents timelines](https://www.sciencedirect.com/science/article/abs/pii/S1742287615000869). In [Digital Investigation](https://www.sciencedirect.com/journal/digital-investigation), 15, pages 83-100, 2015.
 * Chabot, Y., Bertaux, A., Nicolle, C., & Kechadi, M. T. (2014). A complete formalized knowledge representation model for advanced digital forensics timeline analysis. Digital Investigation, 11, S95-S105.
 
 ## Conferences
