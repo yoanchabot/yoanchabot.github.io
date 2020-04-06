@@ -27,5 +27,6 @@ title: Publications
 
 ## Other communications
 
+* Thomas Labbé, Yoan Chabot, Jixiong Liu and Raphaël Troncy. [DAGOBAH: Make Tabular Data Speak Great Again](https://hellofuture.orange.com/en/dagobah-make-tabular-data-speak-great-again/). In Orange Hello Future Research Blog, 2020.
 * Yoan Chabot, Patrick Grohan and Christèle Tarnec. [Data sharing and processing: the new Tower of Babel?](https://hellofuture.orange.com/en/data-sharing-and-processing-the-new-tower-of-babel/). In Orange Hello Future Research Blog, 2020.
 * Yoan Chabot, Gilles Privat and Fano Ramparany. [Ontologies for the rest of us!](https://hellofuture.orange.com/en/ontologies-for-the-rest-of-us/). In Orange Hello Future Research Blog, 2017.
