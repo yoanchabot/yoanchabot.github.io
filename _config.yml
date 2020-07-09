@@ -17,7 +17,7 @@ sass:
 nav:
  - name: "About"
    link: "index"
- - name: "Research"
+ - name: "Research Projects"
    link: "research"
  - name: "Publications and Research Activities"
    link: "publications"
