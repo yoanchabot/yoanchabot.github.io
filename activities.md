@@ -11,8 +11,10 @@ title: Other Activities
   * [Expert Systems with Applications](https://www.journals.elsevier.com/expert-systems-with-applications) since 2015
 
 * Program commitee member
-  * [K-CAP 2019](http://www.k-cap.org/2019/) conference
-
+  * [EGC 2021](https://egc2021.sciencesconf.org/)
+  * [ESWC 2020](https://2020.eswc-conferences.org/)
+  * [K-CAP 2019](http://www.k-cap.org/2019/)
+  
 ## Developpez.com
 
 I am an active member of the community Developpez.com since 2007.
