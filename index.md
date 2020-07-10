@@ -26,6 +26,6 @@ My CV is available here
 
 ## Twitter Feed
 <div class="jekyll-twitter-plugin" align="center">
-    <div class="jekyll-twitter-plugin"><a class="twitter-timeline" data-width="250" data-tweet-limit="5" href="https://twitter.com/yoan_chabot?ref_src=twsrc%5Etfw">Tweets by yoan_chabot</a>
+    <div class="jekyll-twitter-plugin"><a class="twitter-timeline" data-width="500" data-height="250" data-tweet-limit="5" href="https://twitter.com/yoan_chabot?ref_src=twsrc%5Etfw">Tweets by yoan_chabot</a>
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
