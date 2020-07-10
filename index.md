@@ -23,3 +23,8 @@ Enjoy your visit!
 ## Curriculum Vitae
 
 My CV is available here
+
+## Twitter Feed
+<div class='jekyll-twitter-plugin' align="center">
+    {% twitter https://twitter.com/yoan_chabot maxwidth=500 limit=5 %}
+</div>
