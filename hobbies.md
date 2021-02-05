@@ -35,8 +35,8 @@ I am always up for a game of Age of Empires 2, Team Fortress 2, Rocket League, B
 Join me on [Steam](https://steamcommunity.com/profiles/76561198042810574/) ;-)
 
 Some great books I love and recommend (for SF and heroic fantasy lovers):
-* [The Black Company](https://en.wikipedia.org/wiki/The_Black_Company) by Glen Cook
-* [Remembrance of Earth's Past](https://en.wikipedia.org/wiki/Remembrance_of_Earth%27s_Past) by Liu Cixin
+* [The Black Company](https://en.wikipedia.org/wiki/The_Black_Company)/[La Compagnie Noire](https://fr.wikipedia.org/wiki/Cycle_de_la_Compagnie_noire) by Glen Cook
+* [Remembrance of Earth's Past](https://en.wikipedia.org/wiki/Remembrance_of_Earth%27s_Past)[Le Problème à Trois Corps](https://fr.wikipedia.org/wiki/Le_Probl%C3%A8me_%C3%A0_trois_corps) by Liu Cixin
 * [The Witcher](https://en.wikipedia.org/wiki/The_Witcher)/[Le Sorceleur](https://fr.wikipedia.org/wiki/Le_Sorceleur) by Andrzej Sapkowski
 * [The Dark Tower](https://en.wikipedia.org/wiki/The_Dark_Tower_(series))/[La Tour Sombre](https://fr.wikipedia.org/wiki/La_Tour_sombre) by Stephen King
 * [Foundation](https://en.wikipedia.org/wiki/Foundation_(Asimov_novel))/[Fondation](https://fr.wikipedia.org/wiki/Fondation_(Asimov)) by Isaac Asimov
