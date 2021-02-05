@@ -23,7 +23,7 @@ title: Publications
 
 ## Keynote/Talks in Conferences 
 
-* Yoan Chabot and Pierre Monnin. DAGOBAH : Activité de recherche Orange autour de l'annotation sémantique de données tabulaires. In 5 ème atelier TextMine sur la fouille de Textes, In [21th Conférence Francophone sur l'Extraction et la Gestion des Connaissances (EGC'21)](https://egc2021.sciencesconf.org/), Montpellier (remote), France January 25-29, 2021.
+* Yoan Chabot and Pierre Monnin. [DAGOBAH : Activité de recherche Orange autour de l'annotation sémantique de données tabulaires](http://www.vincentlemaire-labs.fr/TM2021/TextMine21.pdf). In [5 ème atelier TextMine sur la fouille de Textes](http://www.vincentlemaire-labs.fr/TM2021/), In [21th Conférence Francophone sur l'Extraction et la Gestion des Connaissances (EGC'21)](https://egc2021.sciencesconf.org/), Montpellier (remote), France January 25-29, 2021.
 
 ## Book Chapters
 
