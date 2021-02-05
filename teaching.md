@@ -6,6 +6,7 @@ title: Teaching
 ## Students (current)
 * [2020- ] Lionel Tailhardat for his PhD co-supervised with Raphaël Troncy ([EURECOM](http://www.eurecom.fr)), "Synergy between knowledge graphs and machine learning for the detection of anomalies"
 * [2020- ] Jixiong Liu for his PhD co-supervised with Raphaël Troncy ([EURECOM](http://www.eurecom.fr)), "Production and valorization of semantic annotation on structured datasets through a recommendation process based on graph embedding techniques"
+* [2021] Toufik Mansouri for his final year internship at [University of Paris VIII](https://www.univ-paris8.fr/), "Automated generation of APIs over heterogeneous tabular datasets using knowledge engineering techniques"
 
 ## Students (past)
 * [2020] Antoine Py for his final year internship at [University of Montbéliard](http://www.univ-fcomte.fr/), "Development of a Web application for annotation and semantic integration of tabular data"
