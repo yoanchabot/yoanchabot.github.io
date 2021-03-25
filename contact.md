@@ -21,11 +21,9 @@ title: Contact
 
 ---
 
-## Social
-
-1. [Google Scholar](http://scholar.google.fr/citations?user=QKcqdfoAAAAJ)
-2. [HAL](https://cv.archives-ouvertes.fr/yoan-chabot)
-3. [Twitter](https://twitter.com/yoan_chabot)
-4. [Research Gate](https://www.researchgate.net/profile/Yoan_Chabot/)
-5. [Github](https://github.com/yoanchabot)
-6. [Developpez.com](http://www.developpez.net/forums/u207506/metafire18)
+* [Google Scholar](http://scholar.google.fr/citations?user=QKcqdfoAAAAJ)
+* [HAL](https://cv.archives-ouvertes.fr/yoan-chabot)
+* [Twitter](https://twitter.com/yoan_chabot)
+* [Research Gate](https://www.researchgate.net/profile/Yoan_Chabot/)
+* [Github](https://github.com/yoanchabot)
+* [Developpez.com](http://www.developpez.net/forums/u207506/metafire18)
