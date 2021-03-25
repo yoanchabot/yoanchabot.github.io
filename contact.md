@@ -10,9 +10,13 @@ title: Contact
 * Email: [yoan.chabot@orange.com](mailto:yoan.chabot@orange.com)
 * Mailing address:
 > Techn Hom 3
+> 
 > Orange Labs
+> 
 > 1 rue Maurice et Louis de Broglie
+> 
 > 90000 Belfort
+> 
 > FRANCE
 
 ---
