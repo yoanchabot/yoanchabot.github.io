@@ -3,15 +3,22 @@ layout: default
 title: About Me
 ---
 
+<img class="profile-picture" src="me.jpg">
+
 PhD in Computer Science
+
 Research and Project Manager at Orange
 
 Techn Hom 3, Orange Labs
+
 1 rue Maurice et Louis de Broglie
+
 90000 Belfort, FRANCE
-* Email: [yoan.chabot@orange.com](mailto:yoan.chabot@orange.com)
+
+Email: [yoan.chabot@orange.com](mailto:yoan.chabot@orange.com)
 
 * [Google Scholar](http://scholar.google.fr/citations?user=QKcqdfoAAAAJ)
+* [dblp](https://dblp.uni-trier.de/pid/144/4841.html)
 * [HAL](https://cv.archives-ouvertes.fr/yoan-chabot)
 * [Twitter](https://twitter.com/yoan_chabot)
 * [Research Gate](https://www.researchgate.net/profile/Yoan_Chabot/)
@@ -19,8 +26,6 @@ Techn Hom 3, Orange Labs
 * [Developpez.com](http://www.developpez.net/forums/u207506/metafire18)
 
 ---
-
-<img class="profile-picture" src="me.jpg">
 
 Welcome to my personal page giving visibility to my professional activities and hobbies!
 
