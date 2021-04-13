@@ -16,6 +16,8 @@ Since April 2012, I am redactor and moderator for the [Semantic Web section](htt
 After serving for four years as young firefighter, I joined the fire and rescue center of Marcigny (Saône et Loire, Burgundy, France) in 2004 as a volunteer firefighter and stopped in 2014.
 I continue to practice first aid as a first aid worker.
 
+* [2018]
+  * Rescuer first-aid worker certificate
 * [2008]
   * Promotion to the rank of first-class firefighter
 * [2007]
