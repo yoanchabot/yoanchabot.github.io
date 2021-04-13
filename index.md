@@ -3,20 +3,13 @@ layout: default
 title: About Me
 ---
 
-* Yoan Chabot
-* Email: [yoan.chabot@orange.com](mailto:yoan.chabot@orange.com)
-* Mailing address:
-> Techn Hom 3
-> 
-> Orange Labs
-> 
-> 1 rue Maurice et Louis de Broglie
-> 
-> 90000 Belfort
-> 
-> FRANCE
+PhD in Computer Science
+Research and Project Manager at Orange
 
----
+Techn Hom 3, Orange Labs
+1 rue Maurice et Louis de Broglie
+90000 Belfort, FRANCE
+* Email: [yoan.chabot@orange.com](mailto:yoan.chabot@orange.com)
 
 * [Google Scholar](http://scholar.google.fr/citations?user=QKcqdfoAAAAJ)
 * [HAL](https://cv.archives-ouvertes.fr/yoan-chabot)
@@ -25,7 +18,7 @@ title: About Me
 * [Github](https://github.com/yoanchabot)
 * [Developpez.com](http://www.developpez.net/forums/u207506/metafire18)
 
-## About Me
+---
 
 <img class="profile-picture" src="me.jpg">
 
