@@ -33,9 +33,7 @@ Page SKILLS
 - MAJ compétences
 - Ajouter cursus/formations Orange/skills
 - Ajouter summer school RW2018
-- Ajouter formation SST et autres formations chez Orange (voir le site Orange Learning) (Spark, Docker, ELK, etc.)
+- Ajouter autres formations chez Orange (voir le site Orange Learning) (Spark, Docker, ELK, etc.)
 - Ajouter formation et attestation dans CV en ligne (formations ORANGE)
 - Ajouter formation Data Science
-- Ajouter formations Big Data sur Linkedin (Spark, ELK, Hadoop)
-- Ajouter formation Docker
 - Ajouter les formations Coursera + host les certificats (How to manage a remote team with Gitlab)
