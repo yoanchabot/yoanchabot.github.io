@@ -3,10 +3,10 @@ layout: default
 title: About Me
 ---
 
-<img class="profile-picture" src="me.jpg">
-
 ### PhD in Computer Science
 ### AI Researcher and Project Manager at Orange
+
+<img class="profile-picture" src="me.jpg">
 
 I have been a researcher in the DATA-IA entity at [Orange Labs Belfort](https://hellofuture.orange.com/fr/) since 2014.
 My research focuses on the use of **knowledge engineering** in different application contexts:
