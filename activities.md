@@ -18,6 +18,8 @@ I continue to practice first aid as a first aid worker.
 
 * [2018]
   * Rescuer first-aid worker certificate
+* [2017]
+  * Fire safety & extinguishers certificate
 * [2008]
   * Promotion to the rank of first-class firefighter
 * [2007]
