@@ -3,8 +3,7 @@ layout: default
 title: About Me
 ---
 
-### PhD in Computer Science
-### AI Researcher and Project Manager at Orange
+### PhD in Computer Science \\ AI Researcher and Project Manager at Orange
 
 <img class="profile-picture" src="me.jpg">
 
