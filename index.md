@@ -5,15 +5,12 @@ title: About Me
 
 <img class="profile-picture" src="me.jpg">
 
-PhD in Computer Science
+## PhD in Computer Science
+## AI Researcher and Project Manager at Orange
 
-Research and Project Manager at Orange
-
-Techn Hom 3, Orange Labs
-
-1 rue Maurice et Louis de Broglie
-
-90000 Belfort, FRANCE
+> Techn Hom 3, Orange Labs
+> 1 rue Maurice et Louis de Broglie
+> 90000 Belfort, FRANCE
 
 Email: [yoan.chabot@orange.com](mailto:yoan.chabot@orange.com)
 
@@ -22,12 +19,10 @@ Email: [yoan.chabot@orange.com](mailto:yoan.chabot@orange.com)
 * [HAL](https://cv.archives-ouvertes.fr/yoan-chabot)
 * [Twitter](https://twitter.com/yoan_chabot)
 * [Research Gate](https://www.researchgate.net/profile/Yoan_Chabot/)
-* [Github](https://github.com/yoanchabot)
-* [Developpez.com](http://www.developpez.net/forums/u207506/metafire18)
+<!--* [Github](https://github.com/yoanchabot)-->
+<!--* [Developpez.com](http://www.developpez.net/forums/u207506/metafire18)-->
 
 ---
-
-Welcome to my personal page giving visibility to my professional activities and hobbies!
 
 I have been a researcher in the DATA-IA entity at [Orange Labs Belfort](https://hellofuture.orange.com/fr/) since 2014.
 My research focuses on the use of **knowledge engineering** in different application contexts:
@@ -44,8 +39,10 @@ Enjoy your visit!
 
 My CV is available here
 
+<!--
 ## Twitter Feed
 <div class="jekyll-twitter-plugin" align="center">
     <div class="jekyll-twitter-plugin"><a class="twitter-timeline" data-width="500" data-height="250" data-tweet-limit="5" href="https://twitter.com/yoan_chabot?ref_src=twsrc%5Etfw">Tweets by yoan_chabot</a>
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
+-->
