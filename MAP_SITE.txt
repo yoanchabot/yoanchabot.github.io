@@ -1,40 +1,39 @@
+- Revoir intitulé CV (Chercheur et chef de projet recherche)
+- MAJ CV
+- MAJ HAL
 
--Teaching and students
--Formation
--CV
--Miscellenaous
-	Guitar
-	Video Games
+---
+- Trad Linkedin
+- Orienter CV Linkedin et CV en ligne sur le thème de l'IA?
+- MAJ compétences et infos projet sur Linkedin
+- Ajouter formation Data Science sur Linkedin
+- Ajouter formations Big Data sur Linkedin (Spark, ELK, Hadoop)
+- Supprimer W3C sur Linkedin
 
+---
 
+Page ABOUT
+- Mise à jour du texte d'intro pour focus sur construction de graphes de connaissances à partir de sources de données avec un focus sur le semi structuré (Table dans DAGOBAH, logs dans NORIA et thèse)
 
+---
 
+Page PUBLICATIONS
+- Revoir indexation des papiers : https://scholar.google.com/intl/en/scholar/inclusion.html#indexing
+- Ajout des preprints des papiers en auto-hébergement sur mon site?
 
+---
 
--Orienter CV Linkedin et CV en ligne sur le thème de l'IA
--Ajouter formation et attestation dans CV en ligne (formations ORANGE)
--MAJ bloc contact
--MAJ résumé
+Page RESEARCH
+- MAJ projet en cours (DAGOBAH, NORIA) -> ancien projets (Dataforum, SADFC)
 
+---
 
--MAJ projet en cours -> ancien projets
--Ajout mon Github dans minimap
--Ajout des projets Hobbies et liens vers Github
-
-
--Ajouter summer school RW2018
-
--Ajouter formation SST et autres formations chez Orange (voir le site Orange Learning)
-
-
--MAJ compétences
-
--MAJ autres activités
-
-
--Update liens trad W3C
-
--MAJ Research Gate
-
--Ajouter formation Data Science sur Linkedin
--Ajouter formations Big Data sur Linkedin (Spark, ELK, Hadoop)
+Page SKILLS
+- MAJ compétences
+- Ajouter page cursus/formations Orange/skills
+- Ajouter summer school RW2018
+- Ajouter formation SST et autres formations chez Orange (voir le site Orange Learning) (Spark, Docker, ELK, etc.)
+- Ajouter formation et attestation dans CV en ligne (formations ORANGE)
+- Ajouter formations Big Data sur Linkedin (Spark, ELK, Hadoop)
+- Ajouter formation Docker
+- Ajouter les formations Coursera + host les certificats (How to manage a remote team with Gitlab)
