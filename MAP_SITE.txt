@@ -14,6 +14,7 @@
 
 Page ABOUT
 - Mise à jour du texte d'intro pour focus sur construction de graphes de connaissances à partir de sources de données avec un focus sur le semi structuré (Table dans DAGOBAH, logs dans NORIA et thèse)
+- Lead projet DAGOBAH
 
 ---
 
@@ -30,10 +31,11 @@ Page RESEARCH
 
 Page SKILLS
 - MAJ compétences
-- Ajouter page cursus/formations Orange/skills
+- Ajouter cursus/formations Orange/skills
 - Ajouter summer school RW2018
 - Ajouter formation SST et autres formations chez Orange (voir le site Orange Learning) (Spark, Docker, ELK, etc.)
 - Ajouter formation et attestation dans CV en ligne (formations ORANGE)
+- Ajouter formation Data Science
 - Ajouter formations Big Data sur Linkedin (Spark, ELK, Hadoop)
 - Ajouter formation Docker
 - Ajouter les formations Coursera + host les certificats (How to manage a remote team with Gitlab)
