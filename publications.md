@@ -2,12 +2,12 @@
 layout: default
 title: Publications
 ---
-
-<a  href="#test_anchor">Test</a>
  
+<a href="#hello_future_2020">link hello future 2020</a>
+
 ## Journal Articles
 
-* Yoan Chabot, Aurélie Bertaux, Christophe Nicolle and Tahar Kechadi. [An ontology-based approach for the reconstruction and analysis of digital incidents timelines](https://github.com/yoanchabot/papers/raw/main/chabot2015a.pdf). In [Digital Investigation](https://www.sciencedirect.com/journal/digital-investigation), 15, pages 83-100, 2015.
+* <b id="digital_investigation_2015">[Digital Investion 2015]</b> Yoan Chabot, Aurélie Bertaux, Christophe Nicolle and Tahar Kechadi. [An ontology-based approach for the reconstruction and analysis of digital incidents timelines](https://github.com/yoanchabot/papers/raw/main/chabot2015a.pdf). In [Digital Investigation](https://www.sciencedirect.com/journal/digital-investigation), 15, pages 83-100, 2015.
 * Yoan Chabot, Aurélie Bertaux, Christophe Nicolle and Tahar Kechadi. [A complete formalized knowledge representation model for advanced digital forensics timeline analysis](https://github.com/yoanchabot/papers/raw/main/chabot2014a.pdf). In [Digital Investigation](https://www.sciencedirect.com/journal/digital-investigation), 11, pages 95-105, 2014.
 
 ## Research Papers in Conferences
@@ -29,7 +29,7 @@ title: Publications
 
 ## Book Chapters
 
-* <span id="test_anchor"></span>Yoan Chabot, Aurélie Bertaux, Christophe Nicolle and Tahar Kechadi. [Event reconstruction: A state of the art](https://github.com/yoanchabot/papers/raw/main/chabot2015b.pdf). In [Handbook of Research on Digital Crime, Cyberspace Security, and Information Assurance](https://www.igi-global.com/book/handbook-research-digital-crime-cyberspace/104750), pages 231-245, 2015. IGI Global.
+* Yoan Chabot, Aurélie Bertaux, Christophe Nicolle and Tahar Kechadi. [Event reconstruction: A state of the art](https://github.com/yoanchabot/papers/raw/main/chabot2015b.pdf). In [Handbook of Research on Digital Crime, Cyberspace Security, and Information Assurance](https://www.igi-global.com/book/handbook-research-digital-crime-cyberspace/104750), pages 231-245, 2015. IGI Global.
 * Yoan Chabot and Christophe Nicolle. [Semantic Measures](https://github.com/yoanchabot/papers/raw/main/chabot2014d.pdf). In [Encyclopedia of Information Science and Technology](https://www.igi-global.com/book/encyclopedia-information-science-technology-third/76156), pages 4690-4698, 2015. IGI Global.
 
 ## PhD Thesis
@@ -38,7 +38,7 @@ title: Publications
 
 ## Other Communications
 
-* Thomas Labbé, Yoan Chabot, Jixiong Liu and Raphaël Troncy. [DAGOBAH: Make Tabular Data Speak Great Again](https://hellofuture.orange.com/en/dagobah-make-tabular-data-speak-great-again/). In Orange Hello Future Research Blog, 2020.
+* <b id="hello_future_2020">[Hello Future 2020] Thomas Labbé, Yoan Chabot, Jixiong Liu and Raphaël Troncy. [DAGOBAH: Make Tabular Data Speak Great Again](https://hellofuture.orange.com/en/dagobah-make-tabular-data-speak-great-again/). In Orange Hello Future Research Blog, 2020.
 * Yoan Chabot, Patrick Grohan and Christèle Tarnec. [Data sharing and processing: the new Tower of Babel?](https://hellofuture.orange.com/en/data-sharing-and-processing-the-new-tower-of-babel/). In Orange Hello Future Research Blog, 2020.
 * Yoan Chabot, Gilles Privat and Fano Ramparany. [Ontologies for the rest of us!](https://hellofuture.orange.com/en/ontologies-for-the-rest-of-us/). In Orange Hello Future Research Blog, 2017.
 
