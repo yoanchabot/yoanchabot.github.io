@@ -3,6 +3,8 @@ layout: default
 title: Publications
 ---
 
+<a  href="#test_anchor">Test</a>
+ 
 ## Journal Articles
 
 * Yoan Chabot, Aurélie Bertaux, Christophe Nicolle and Tahar Kechadi. [An ontology-based approach for the reconstruction and analysis of digital incidents timelines](https://github.com/yoanchabot/papers/raw/main/chabot2015a.pdf). In [Digital Investigation](https://www.sciencedirect.com/journal/digital-investigation), 15, pages 83-100, 2015.
@@ -27,7 +29,7 @@ title: Publications
 
 ## Book Chapters
 
-* Yoan Chabot, Aurélie Bertaux, Christophe Nicolle and Tahar Kechadi. [Event reconstruction: A state of the art](https://github.com/yoanchabot/papers/raw/main/chabot2015b.pdf). In [Handbook of Research on Digital Crime, Cyberspace Security, and Information Assurance](https://www.igi-global.com/book/handbook-research-digital-crime-cyberspace/104750), pages 231-245, 2015. IGI Global.
+* <span id="test_anchor"></span>Yoan Chabot, Aurélie Bertaux, Christophe Nicolle and Tahar Kechadi. [Event reconstruction: A state of the art](https://github.com/yoanchabot/papers/raw/main/chabot2015b.pdf). In [Handbook of Research on Digital Crime, Cyberspace Security, and Information Assurance](https://www.igi-global.com/book/handbook-research-digital-crime-cyberspace/104750), pages 231-245, 2015. IGI Global.
 * Yoan Chabot and Christophe Nicolle. [Semantic Measures](https://github.com/yoanchabot/papers/raw/main/chabot2014d.pdf). In [Encyclopedia of Information Science and Technology](https://www.igi-global.com/book/encyclopedia-information-science-technology-third/76156), pages 4690-4698, 2015. IGI Global.
 
 ## PhD Thesis
