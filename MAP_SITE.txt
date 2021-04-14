@@ -18,14 +18,9 @@ Page ABOUT
 
 ---
 
-Page PUBLICATIONS
-- Revoir indexation des papiers : https://scholar.google.com/intl/en/scholar/inclusion.html#indexing
-- Ajout des preprints des papiers en auto-hébergement sur mon site?
-
----
-
 Page RESEARCH
 - MAJ projet en cours (DAGOBAH, NORIA) -> ancien projets (Dataforum, SADFC)
+- Liens vers les publications/communications (Youtube) par projet
 
 ---
 
