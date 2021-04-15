@@ -42,9 +42,7 @@ title: Publications
 
 ## In Press
 
-* <b id="imtech_2020">[IMTECH 2020]</b> ["DAGOBAH : les tableaux, l'IA comprendra"](https://blogrecherche.wp.imt.fr/2020/06/22/dagobah-les-tableaux-lia-comprendra/). In blog I'MTech, 2020.
-
-
+* <b id="imtech_2020">[IMTECH 2020]</b> ["DAGOBAH: Tables, AI will understand"](https://imtech.wp.imt.fr/en/2020/10/19/dagobah-tables-ai-will-understand/). In blog I'MTech, 2020.
 
 ## Reviewer
 
