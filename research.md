@@ -8,8 +8,10 @@ title: Research
 ### DAGOBAH
 <b>Keywords:</b> Tabular Data, Knowledge Extraction, Knowledge Graph, Semantic Annotation
 
-<b>Context:</b> I co-created DAGOBAH in 2018 and now lead a research team (approx. 10 people) on this topic. 
-We collaborate with EURECOM on this research topic.
+<b>Context:</b> 
+* Co-creation of DAGOBAH in 2018
+* Project manager with a research team of approx. 10 people
+* Collaboration with EURECOM + co-supervision of a PhD student
 
 <b>Overview:</b> Within the ever-expanding Web of data, more and more knowledge graphs (KGs) become available. 
 However, these KGs may suffer from inconsistency and incompleteness issues. 
@@ -32,8 +34,9 @@ DAGOBAH aims at proposing solutions to semantically anotate tables and to exploi
 ### NORIA
 <b>Keywords:</b> Anomaly Detection, Cybersecurity, Knowledge Graph
 
-<b>Context:</b> I co-created NORIA in 2015 and I am now supervising a PhD student on this subject.
-We collaborate with EURECOM on this research topic.
+<b>Context:</b>
+* Co-creation of NORIA in 2015
+* Collaboration with EURECOM + co-supervision of a PhD student
 
 <b>Overview:</b> Soon
 
@@ -43,7 +46,9 @@ We collaborate with EURECOM on this research topic.
 ### Dataforum
 <b>Keywords:</b> Data Management, Data Catalog, Traceability, Knowledge Graph
 
-<b>Context:</b> I created Dataforum in 2015 and led a research team on this topic until 2019.
+<b>Context:</b> 
+* Creation of Dataforum in 2015
+* Project manager with a research team of approx. 10 people until 2019
 
 <b>Overview:</b> TODO
 
@@ -55,7 +60,9 @@ We collaborate with EURECOM on this research topic.
 ### SADFC: Semantic Analysis of Digital Forensic Cases
 <b>Keywords:</b> Digital Forensics, Timeline Reconstruction, Semantic Web
 
-<b>Context:</b> I conducted this project during my PhD under the co-supervision of Pr. Christophe Nicolle and Dr. Aurélie Bertaux from University of Burgundy and Pr. Tahar Kechadi from University College Dublin. 
+<b>Context:</b>
+* Project subject of my PhD 
+* Co-supervision of Pr. Christophe Nicolle and Dr. Aurélie Bertaux from University of Burgundy and Pr. Tahar Kechadi from University College Dublin
 
 <b>Overview:</b> Soon
 <!--
