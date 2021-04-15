@@ -20,7 +20,7 @@ Enjoy your visit!
 
 ## Curriculum Vitae
 
-My CV is available here
+Soon
 
 ## Contact Infos
 
