@@ -8,10 +8,13 @@ title: Training & Skills
 * Advanced knowledge in Machine learning/Deep learning
 * Advanced knowledge in Big Data: Apache Spark, Apache Hadoop
 
+
 * Data management
 * Cybersecurity: extraction and analysis of heterogeneous logs (Plaso, log2timeline), knowledge representation for forensics, event correlation
 
+
 * Programming: Python, Java, UML
+
 
 * Project management
 
