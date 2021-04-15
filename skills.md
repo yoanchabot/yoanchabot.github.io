@@ -13,19 +13,19 @@ title: Training & Skills
 
 * Project management
 
-## Academinc background
+## Academic background
 * 2012-2015, PhD in Computer Science, University of Burgundy/University College Dublin, Reconstruction of events linked to a digital incident for forensic purposes. My research proposes a new approach to construct semantically enriched incident chronologies from voluminous and heterogeneous data sources and analyse them
 * 2011-2012, Master STIC R3i, University of Burgundy, Information and Communication Sciences and Technologies: Image Research, Computer Science, Engineering, completed by artificial intelligence modules
 
 ## Training & Certifications
-Non-technical:
+<b>Non-technical</b>
 * 2020-2021:
   * Orange Emerging Talent Development Program, 53h training
 * 2019 :
   * Intellectual Property issues and best practices for innovation, 6h training
   * Training to supervise doctoral students, 7h training
 
-Technical:
+<b>Technical</b>
 * 2020:
   * Using docker for testing and development, 8h training
 * 2019:
