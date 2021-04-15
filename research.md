@@ -3,16 +3,21 @@ layout: default
 title: Research
 ---
 
-## Research Areas
-
-* Semantic Web
-* Knowledge Representation
-
 ## Current projects
 
 ### DAGOBAH
-Keywords: A, B, C
-Description of DAGOBAH HERE 
+<b>Keywords:</b> Tabular Data, Knowledge Extraction, Knowledge Graph, Semantic Annotation
+
+<b>Context:</b> I co-created DAGOBAH in 2018 and now lead a research team (approx. 10 people) on this topic. 
+We collaborate with EURECOM on this research topic.
+
+<b>Overview:</b> Within the ever-expanding Web of data, more and more knowledge graphs (KGs) become available. 
+However, these KGs may suffer from inconsistency and incompleteness issues. 
+Hence, one can envision to either correct or complete KGs by extracting information from various sources such as web tables and texts available in Web pages. 
+Interestingly, tables often constitute a major source of information since large parts of both companies internal repositories and Web pages are represented in tabular formats. 
+Additionally, besides KG completion, the automatic interpretation of tables by software agents can enable semantic-driven services to query, manipulate, and process heterogeneous table corpora, such as a dataset search "moving beyond keyword".
+
+DAGOBAH aims at proposing solutions to semantically anotate tables and to exploit these annotations in search and recommendation use cases. 
 
 * Related papers: 
   * <a href="https://yoanchabot.github.io/publications#iswc_2020">DAGOBAH: Enhanced Scoring Algorithms for Scalable Annotations of Tabular Data</a>
@@ -25,16 +30,22 @@ Description of DAGOBAH HERE
 * <a href="https://www.youtube.com/channel/UC30pJdIBeskw5fmIBqsn6ZA">Youtube channel</a>
 
 ### NORIA
-Keywords: A, B, C
+<b>Keywords:</b> Anomaly Detection, Cybersecurity, Knowledge Graph
 
-Description of NORIA here
+<b>Context:</b> I co-created NORIA in 2015 and I am now supervising a PhD student on this subject.
+We collaborate with EURECOM on this research topic.
+
+<b>Overview:</b> Soon
+
 
 ## Past projects
 
 ### Dataforum
-Keywords: A, B, C
+<b>Keywords:</b> Data Management, Data Catalog, Traceability, Knowledge Graph
 
-Description of Dataforum here
+<b>Context:</b> I created Dataforum in 2015 and led a research team on this topic until 2019.
+
+<b>Overview:</b> TODO
 
 * Related papers: 
   * <a href="https://yoanchabot.github.io/publications#egc_2019">Dataforum : Faciliter l'échange, la découverte et la valorisation des données à l'aide de technologies sémantiques</a>
@@ -42,12 +53,12 @@ Description of Dataforum here
   * <a href="https://yoanchabot.github.io/publications#hello_future_2020b">Data sharing and processing: the new Tower of Babel?</a>
 
 ### SADFC: Semantic Analysis of Digital Forensic Cases
-Keywords: Digital Forensics, Semantic Web, Timeline Reconstruction
+<b>Keywords:</b> Digital Forensics, Timeline Reconstruction, Semantic Web
 
-As a PhD student 
+<b>Context:</b> I conducted this project during my PhD under the co-supervision of Pr. Christophe Nicolle and Dr. Aurélie Bertaux from University of Burgundy and Pr. Tahar Kechadi from University College Dublin. 
 
-This project is made under the co-supervision of Professor Christophe Nicolle and Doctor Aurélie Bertaux from University of Burgundy and Professor Tahar Kechadi from University College Dublin. 
-
+<b>Overview:</b> Soon
+<!--
 Le problème traité est celui de la reconstruction d’évènements liés à un incident numérique pour
 le domaine de la criminalistique informatique. Mes travaux de recherche proposent une nouvelle
 approche permettant de construire des chronologies d’incidents enrichies sémantiquement à partir de sources d’informations volumineuses et hétérogènes et d’analyser les connaissances sur l’incident à l’aide d’opérateurs formellement définis. Cette approche vise à :
@@ -57,12 +68,9 @@ disposition des outils d’analyses automatiques basés sur les informations sé
 -Assurer la reproductibilité des processus d’investigation et la crédibilité des résultats produits par
 le biais du stockage d’informations sur l’investigation et l’explicitation d’un modèle de processus
 formel.
-
-Objectives
-
 La cybercriminalité est un phénomène prenant de l’importance de nos jours et un nombre croissant d’infractions commises à l’aide ou contre des systèmes informatiques sont signalées. Les fraudes sur Internet, le harcèlement via les réseaux sociaux et les logiciels de messagerie, le cyber-terrorisme ou encore les intrusions dans des systèmes sont autant d’infractions perpétrées contre des individus ou des entreprises. Ces nouveaux phénomènes obligent les états et les sociétés à investir des sommes d’argent toujours plus importantes pour garantir la sécurité des individus et des installations. Ainsi, le domaine de la criminalistique informatique a connu un essor important ces dernières années.
 Les investigations concernant des affaires cybercriminelles sont différentes des investigations plus courantes. Avec l’avancée et l’omniprésence des technologies dans notre environnement, il est demandé aux investigateurs de traiter des grands volumes de données et provenant de sources hétérogènes rendant les tâches de traitement et d’analyse particulièrement difficiles et fastidieuses. De plus, une investigation cybercriminelle est un processus complexe dans lequel chaque conclusion doit être supportée par des pièces à conviction collectées de manière rigoureuse afin de leur donner le poids et la crédibilité nécessaire pour faire avancer l’enquête. Dans ce projet, nous nous intéressons plus particulièrement à la phase de reconstruction de scénarios d’une investigation. Cette étape permet aux enquêteurs et à la Justice d’avoir un aperçu global des évènements survenus durant l’incident faisait l’objet de l’enquête. La reconstruction de scénarios peut être vu comme un processus prenant en entrée un ensemble de pièces à conviction et produisant en sortie la chronologie des évènements concernant l’incident.
-L’approche proposée par notre équipe se situe au croisement des domaines de la criminalistique informatique et du web sémantique. Dans nos travaux, une nouvelle méthodologie, étayée par une théorie, est proposée pour assister les enquêteurs à travers le processus de reconstruction (construction de la chronologie et analyse). Pour cela, une ontologie intégrant les connaissances liées au savoir-faire métier d’experts de la criminalistique informatique et de développeurs de logiciels est utilisée. L’utilisation d’une ontologie nous permet de représenter les évènements de manière détaillée et par la suite de les analyser de manière automatique et pertinente.
+L’approche proposée par notre équipe se situe au croisement des domaines de la criminalistique informatique et du web sémantique. Dans nos travaux, une nouvelle méthodologie, étayée par une théorie, est proposée pour assister les enquêteurs à travers le processus de reconstruction (construction de la chronologie et analyse). Pour cela, une ontologie intégrant les connaissances liées au savoir-faire métier d’experts de la criminalistique informatique et de développeurs de logiciels est utilisée. L’utilisation d’une ontologie nous permet de représenter les évènements de manière détaillée et par la suite de les analyser de manière automatique et pertinente. -->
 
 * Related papers: 
   * <a href="https://yoanchabot.github.io/publications#digital_investigation_2015">An ontology-based approach for the reconstruction and analysis of digital incidents timelines</a>
