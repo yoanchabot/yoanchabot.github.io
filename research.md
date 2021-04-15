@@ -3,9 +3,7 @@ layout: default
 title: Research
 ---
 
-## Current projects
-
-### DAGOBAH
+## DAGOBAH
 <b>Keywords:</b> Tabular Data, Knowledge Extraction, Knowledge Graph, Semantic Annotation
 
 <b>Context:</b> 
@@ -31,7 +29,7 @@ DAGOBAH aims at proposing solutions to semantically anotate tables and to exploi
   * <a href="https://yoanchabot.github.io/publications#hello_future_2020a">DAGOBAH: Tables, AI will understand</a> 
 * <a href="https://www.youtube.com/channel/UC30pJdIBeskw5fmIBqsn6ZA">Youtube channel</a>
 
-### NORIA
+## NORIA
 <b>Keywords:</b> Anomaly Detection, Cybersecurity, Knowledge Graph
 
 <b>Context:</b>
@@ -40,6 +38,7 @@ DAGOBAH aims at proposing solutions to semantically anotate tables and to exploi
 
 <b>Overview:</b> Soon
 
+---
 
 ## Past projects
 
