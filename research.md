@@ -10,10 +10,24 @@ title: Research
 
 ## Current projects
 
-Under development...
-Current projects at Orange...
+### DAGOBAH
+Description of DAGOBAH HERE 
+
+* Related papers: 
+  * <a href="https://yoanchabot.github.io/publications#egc_2021">DAGOBAH : Activité de recherche Orange autour de l'annotation sémantique de données tabulaires</a>
+  * <a href="https://yoanchabot.github.io/publications#iswc_2020">DAGOBAH: Enhanced Scoring Algorithms for Scalable Annotations of Tabular Data</a>
+  * <a href="https://yoanchabot.github.io/publications#ic_2020">DAGOBAH : Un système d'annotation sémantique de données tabulaires indépendant du contexte</a>
+  * <a href="https://yoanchabot.github.io/publications#iswc_2019">DAGOBAH: An End-to-End Context-Free Tabular Data Semantic Annotation System</a>
+* Blogs:
+  * <a href="https://yoanchabot.github.io/publications#imtech_2020">DAGOBAH: Make Tabular Data Speak Great Again</a>
+  * <a href="https://yoanchabot.github.io/publications#hello_future_2020a">DAGOBAH: Tables, AI will understand</a> 
+* <a href="https://www.youtube.com/channel/UC30pJdIBeskw5fmIBqsn6ZA">Youtube channel</a>
+
+### NORIA
 
 ## Past projects
+
+### Dataforum
 
 Under development...
  <!--
