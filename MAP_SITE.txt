@@ -1,10 +1,15 @@
 - Revoir intitulé CV (Chercheur et chef de projet recherche)
 - MAJ CV
+
+---
+
 - MAJ HAL
 
 ---
+
+- MAJ Linkedin
 - Trad Linkedin
-- Orienter CV Linkedin et CV en ligne sur le thème de l'IA?
+- MAJ publications 
 - MAJ compétences et infos projet sur Linkedin
 - Ajouter formation Data Science sur Linkedin
 - Ajouter formations Big Data sur Linkedin (Spark, ELK, Hadoop)
@@ -15,20 +20,17 @@
 Page ABOUT
 - Mise à jour du texte d'intro pour focus sur construction de graphes de connaissances à partir de sources de données avec un focus sur le semi structuré (Table dans DAGOBAH, logs dans NORIA et thèse)
 - Lead projet DAGOBAH
+- Add CV
 
 ---
 
 Page RESEARCH
-- MAJ projet en cours (DAGOBAH, NORIA) -> ancien projets (Dataforum, SADFC)
-- Liens vers les publications/communications (Youtube) par projet
+- Améliorer texte présentation DAGOBAH
+- Rédiger overview des autres projets
 
 ---
 
 Page SKILLS
-- MAJ compétences
-- Ajouter cursus/formations Orange/skills
-- Ajouter summer school RW2018
-- Ajouter autres formations chez Orange (voir le site Orange Learning) (Spark, Docker, ELK, etc.)
+- Spécificer si présentiel, remote ? 
 - Ajouter formation et attestation dans CV en ligne (formations ORANGE)
-- Ajouter formation Data Science
 - Ajouter les formations Coursera + host les certificats (How to manage a remote team with Gitlab)
