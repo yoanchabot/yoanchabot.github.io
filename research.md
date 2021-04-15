@@ -29,6 +29,7 @@ DAGOBAH aims at proposing solutions to semantically anotate tables and to exploi
   * <a href="https://yoanchabot.github.io/publications#hello_future_2020a">DAGOBAH: Tables, AI will understand</a> 
 * <a href="https://www.youtube.com/channel/UC30pJdIBeskw5fmIBqsn6ZA">Youtube channel</a>
 
+
 ## NORIA
 <b>Keywords:</b> Anomaly Detection, Cybersecurity, Knowledge Graph
 
@@ -38,7 +39,9 @@ DAGOBAH aims at proposing solutions to semantically anotate tables and to exploi
 
 <b>Overview:</b> Soon
 
+
 ---
+
 
 ## Past projects
 
@@ -55,6 +58,7 @@ DAGOBAH aims at proposing solutions to semantically anotate tables and to exploi
   * <a href="https://yoanchabot.github.io/publications#egc_2019">Dataforum : Faciliter l'échange, la découverte et la valorisation des données à l'aide de technologies sémantiques</a>
 * Blogs:
   * <a href="https://yoanchabot.github.io/publications#hello_future_2020b">Data sharing and processing: the new Tower of Babel?</a>
+
 
 ### SADFC: Semantic Analysis of Digital Forensic Cases
 <b>Keywords:</b> Digital Forensics, Timeline Reconstruction, Semantic Web
