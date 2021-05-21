@@ -53,5 +53,5 @@ title: Publications
 
 * Program commitee member
   * [EGC 2021](https://egc2021.sciencesconf.org/)
-  * [ESWC 2020](https://2020.eswc-conferences.org/), [ESWC 2021](https://2021.eswc-conferences.org/)
-  * [K-CAP 2019](http://www.k-cap.org/2019/)
+  * [ESWC 2021](https://2021.eswc-conferences.org/), [ESWC 2020](https://2020.eswc-conferences.org/)
+  * [K-CAP 2021](https://www.k-cap.org/2021/index.html), [K-CAP 2019](http://www.k-cap.org/2019/)
