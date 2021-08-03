@@ -43,7 +43,7 @@ title: Publications
 ## In Press
 
 * <b id="imtech_2020">[IMTECH 2020]</b> ["DAGOBAH: Tables, AI will understand"](https://imtech.wp.imt.fr/en/2020/10/19/dagobah-tables-ai-will-understand/). In blog I'MTech, 2020.
-* * <b id="poc_media_2021">[POC Media 2021]</b> ["Orange veut exploiter les données dormantes des entreprises"](https://www.pocmedia.fr/orange-veut-exploiter-les-donnees-dormantes-des-entreprises/). In blog POC Media, 2021.
+* <b id="poc_media_2021">[POC Media 2021]</b> ["Orange veut exploiter les données dormantes des entreprises"](https://www.pocmedia.fr/orange-veut-exploiter-les-donnees-dormantes-des-entreprises/). In blog POC Media, 2021.
 
 ## Reviewer
 
