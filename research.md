@@ -8,8 +8,9 @@ title: Research
 
 <b>Context:</b> 
 * Co-creation of DAGOBAH in 2018
-* Project manager with a research team of approx. 10 people
+* Project manager with a research team of approx. 14 people
 * Collaboration with EURECOM + co-supervision of a PhD student
+* 1st Prize (Accuracy track) SemTab2021, 3rd Prize SemTab2020
 
 <b>Overview:</b> Within the ever-expanding Web of data, more and more knowledge graphs (KGs) become available. 
 However, these KGs may suffer from inconsistency and incompleteness issues. 
