@@ -20,6 +20,8 @@ Additionally, besides KG completion, the automatic interpretation of tables by s
 DAGOBAH aims at proposing solutions to semantically anotate tables and to exploit these annotations in search and recommendation use cases. 
 
 * Related papers: 
+  * <a href="https://yoanchabot.github.io/publications#iswc_2021_b">DAGOBAH: Table and Graph Contexts For Efficient Semantic Annotation of Tabular Data</a>
+  * <a href="https://yoanchabot.github.io/publications#iswc_2021_a">A Framework for Automatically Interpreting Tabular Data at Orange</a>
   * <a href="https://yoanchabot.github.io/publications#iswc_2020">DAGOBAH: Enhanced Scoring Algorithms for Scalable Annotations of Tabular Data</a>
   * <a href="https://yoanchabot.github.io/publications#iswc_2019">DAGOBAH: An End-to-End Context-Free Tabular Data Semantic Annotation System</a>
   * <a href="https://yoanchabot.github.io/publications#ic_2020">DAGOBAH : Un système d'annotation sémantique de données tabulaires indépendant du contexte</a>
