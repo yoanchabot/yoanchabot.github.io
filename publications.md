@@ -19,7 +19,7 @@ title: Publications
 
 ## Challenges 
 * <b id="iswc_2021_b">[ISWC 2021]</b> 1st prize (Accuracy Track) in [Semantic Web Challenge on Tabular Data to Knowledge Graph Matching 2021](http://www.cs.ox.ac.uk/isg/challenges/sem-tab/2021/index.html), [20th International Semantic Web Conference (ISWC'21)](https://iswc2021.semanticweb.org/), remote, USA, October 24-28, 2021.
-* <b id="iswc_2020">[ISWC 2020]</b> 3rd Prize in [Semantic Web Challenge on Tabular Data to Knowledge Graph Matching 2020](http://www.cs.ox.ac.uk/isg/challenges/sem-tab/2020/index.html/), [19th International Semantic Web Conference (ISWC'20)]
+* <b id="iswc_2020">[ISWC 2020]</b> 3rd Prize in [Semantic Web Challenge on Tabular Data to Knowledge Graph Matching 2020](http://www.cs.ox.ac.uk/isg/challenges/sem-tab/2020/index.html/), [19th International Semantic Web Conference (ISWC'20)](https://iswc2020.semanticweb.org/), Athens (remote), Greece, November 1-6, 2020.
 
 ## Demos/Posters in Conferences
 
