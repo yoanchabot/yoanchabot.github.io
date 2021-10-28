@@ -40,16 +40,13 @@ title: Publications
 
 * <b id="thesis_2015">[Thesis 2015]</b> Yoan Chabot. [Construction, Enrichment and Semantic Analysis of Timelines: Application to Digital Forensics](https://github.com/yoanchabot/papers/raw/main/chabot2015d.pdf), University College Dublin, Dublin, Ireland and University of Burgundy, Dijon, France, 2014. PhD Supervisors : [Christophe Nicolle](https://scholar.google.fr/citations?user=sIwxy6IAAAAJ&hl=fr), [Aurélie Bertaux](https://scholar.google.fr/citations?hl=fr&user=virzKdYAAAAJ) and [Tahar Kechadi](https://people.ucd.ie/tahar.kechadi).
 
-## Other Communications
+## In Press
 
+* <b id="poc_media_2021">[POC Media 2021]</b> ["Orange veut exploiter les données dormantes des entreprises"](https://www.pocmedia.fr/orange-veut-exploiter-les-donnees-dormantes-des-entreprises/). In blog POC Media, 2021.
+* <b id="imtech_2020">[IMTECH 2020]</b> ["DAGOBAH: Tables, AI will understand"](https://imtech.wp.imt.fr/en/2020/10/19/dagobah-tables-ai-will-understand/). In blog I'MTech, 2020.
 * <b id="hello_future_2020a">[Hello Future 2020]</b> Thomas Labbé, Yoan Chabot, Jixiong Liu and Raphaël Troncy. [DAGOBAH: Make Tabular Data Speak Great Again](https://hellofuture.orange.com/en/dagobah-make-tabular-data-speak-great-again/). In Orange Hello Future Research Blog, 2020.
 * <b id="hello_future_2020b">[Hello Future 2020]</b> Yoan Chabot, Patrick Grohan and Christèle Tarnec. [Data sharing and processing: the new Tower of Babel?](https://hellofuture.orange.com/en/data-sharing-and-processing-the-new-tower-of-babel/). In Orange Hello Future Research Blog, 2020.
 * <b id="hello_future_2017">[Hello Future 2017]</b> Yoan Chabot, Gilles Privat and Fano Ramparany. [Ontologies for the rest of us!](https://hellofuture.orange.com/en/ontologies-for-the-rest-of-us/). In Orange Hello Future Research Blog, 2017.
-
-## In Press
-
-* <b id="imtech_2020">[IMTECH 2020]</b> ["DAGOBAH: Tables, AI will understand"](https://imtech.wp.imt.fr/en/2020/10/19/dagobah-tables-ai-will-understand/). In blog I'MTech, 2020.
-* <b id="poc_media_2021">[POC Media 2021]</b> ["Orange veut exploiter les données dormantes des entreprises"](https://www.pocmedia.fr/orange-veut-exploiter-les-donnees-dormantes-des-entreprises/). In blog POC Media, 2021.
 
 ## Reviewer
 
@@ -59,6 +56,6 @@ title: Publications
   * [Expert Systems with Applications](https://www.journals.elsevier.com/expert-systems-with-applications) since 2015
 
 * Program commitee member
-  * [EGC 2021](https://egc2021.sciencesconf.org/)
   * [ESWC 2021](https://2021.eswc-conferences.org/), [ESWC 2020](https://2020.eswc-conferences.org/)
+  * [EGC 2021](https://egc2021.sciencesconf.org/)
   * [K-CAP 2021](https://www.k-cap.org/2021/index.html), [K-CAP 2019](http://www.k-cap.org/2019/)
