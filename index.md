@@ -20,7 +20,7 @@ Enjoy your visit!
 
 ## CV
 
-[Curriculum Vitae](https://github.com/yoanchabot/yoanchabot.github.io/raw/main/cv.pdf)
+[Curriculum Vitae](https://github.com/yoanchabot/yoanchabot.github.io/master/cv.pdf)
 
 ## Contact Infos
 
