@@ -19,8 +19,7 @@ My work focused on the application of knowledge engineering techniques to facili
 Enjoy your visit!
 
 ## CV
-
-[Curriculum Vitae](https://github.com/yoanchabot/yoanchabot.github.io/master/cv.pdf)
+[Curriculum Vitae](https://raw.githubusercontent.com/yoanchabot/yoanchabot.github.io/master/cv.pdf)
 
 ## Contact Infos
 
