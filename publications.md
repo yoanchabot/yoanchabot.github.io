@@ -52,8 +52,9 @@ title: Publications
 ## Reviewer
 
 * Journal Reviewer
-  * [Digital Investigation](https://www.journals.elsevier.com/digital-investigation) since 2016
+  * [Journal of Web Semantics](https://www.journals.elsevier.com/journal-of-web-semantics) since 2021
   * [Computers & Security](https://www.journals.elsevier.com/computers-and-security) since 2018
+  * [Digital Investigation](https://www.journals.elsevier.com/digital-investigation) since 2016
   * [Expert Systems with Applications](https://www.journals.elsevier.com/expert-systems-with-applications) since 2015
 
 * Program commitee member
