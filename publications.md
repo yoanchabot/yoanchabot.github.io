@@ -30,6 +30,7 @@ title: Publications
 
 ## Keynote/Talks in Conferences 
 
+* <b id="semwebpro_2021">[SemWeb.Pro 2021]</b> Yoan Chabot, Pierre Monnin and Thomas Labbé. [DAGOBAH : Des outils pour l'interprétation automatique de données tabulaires](https://2021.semweb.pro/presentations/dagobah/). In [SemWeb.Pro 2021](https://2021.semweb.pro/), Remote, December 9, 2021. [Video here](https://peertube.semweb.pro/w/oqyW5garzmKRHrJTGKne4v)
 * <b id="egc_2021">[EGC 2021]</b> Yoan Chabot and Pierre Monnin. [DAGOBAH : Activité de recherche Orange autour de l'annotation sémantique de données tabulaires](https://github.com/yoanchabot/papers/raw/main/chabot2021a.pdf). In [5 ème atelier TextMine sur la fouille de Textes](http://www.vincentlemaire-labs.fr/TM2021/), In [21th Conférence Francophone sur l'Extraction et la Gestion des Connaissances (EGC'21)](https://egc2021.sciencesconf.org/), Montpellier (remote), France January 25-29, 2021.
 
 ## Book Chapters
