@@ -5,7 +5,7 @@ title: About Me
 
 ## AI Researcher and Project Manager at Orange
 
-<img class="profile-picture" src="me_2.jpg" width="250">
+<img class="profile-picture" src="me_2.jpg" width="500">
 
 I have been a researcher in the DATA-IA entity at [Orange Labs Belfort](https://hellofuture.orange.com/fr/) since 2014.
 My research focuses on the use of **knowledge engineering** in different application contexts:
