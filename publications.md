@@ -4,7 +4,6 @@ title: Publications
 ---
  
 ## Journal Articles
-
 * <b id="digital_investigation_2015">[Digital Investigation 2015]</b> Yoan Chabot, Aurélie Bertaux, Christophe Nicolle and Tahar Kechadi. [An ontology-based approach for the reconstruction and analysis of digital incidents timelines](https://github.com/yoanchabot/papers/raw/main/chabot2015a.pdf). In [Digital Investigation](https://www.sciencedirect.com/journal/digital-investigation), 15, pages 83-100, 2015.
 * <b id="digital_investigation_2014">[Digital Investigation 2014]</b> Yoan Chabot, Aurélie Bertaux, Christophe Nicolle and Tahar Kechadi. [A complete formalized knowledge representation model for advanced digital forensics timeline analysis](https://github.com/yoanchabot/papers/raw/main/chabot2014a.pdf). In [Digital Investigation](https://www.sciencedirect.com/journal/digital-investigation), 11, pages 95-105, 2014.
 
@@ -22,8 +21,8 @@ title: Publications
 
 ## Challenges 
 * <b id="iswc_2022_b">[ISWC 2022]</b> [1st prize (Accuracy Track)](https://github.com/yoanchabot/papers/raw/main/dagobah-certificate-2022.pdf) in [Semantic Web Challenge on Tabular Data to Knowledge Graph Matching 2022](https://sem-tab-challenge.github.io/2022/), [21th International Semantic Web Conference (ISWC'22)](https://iswc2022.semanticweb.org/), remote, China, October 23-27, 2022.
-* <b id="iswc_2021_b">[ISWC 2021]</b> 1st prize (Accuracy Track) in [Semantic Web Challenge on Tabular Data to Knowledge Graph Matching 2021](http://www.cs.ox.ac.uk/isg/challenges/sem-tab/2021/index.html), [20th International Semantic Web Conference (ISWC'21)](https://iswc2021.semanticweb.org/), remote, USA, October 24-28, 2021.
-* <b id="iswc_2020">[ISWC 2020]</b> 3rd Prize in [Semantic Web Challenge on Tabular Data to Knowledge Graph Matching 2020](http://www.cs.ox.ac.uk/isg/challenges/sem-tab/2020/index.html/), [19th International Semantic Web Conference (ISWC'20)](https://iswc2020.semanticweb.org/), Athens (remote), Greece, November 1-6, 2020.
+* <b id="iswc_2021_b">[ISWC 2021]</b> [1st prize (Accuracy Track)](https://github.com/yoanchabot/papers/raw/main/dagobah-certificate-2021.pdf) in [Semantic Web Challenge on Tabular Data to Knowledge Graph Matching 2021](http://www.cs.ox.ac.uk/isg/challenges/sem-tab/2021/index.html), [20th International Semantic Web Conference (ISWC'21)](https://iswc2021.semanticweb.org/), remote, USA, October 24-28, 2021.
+* <b id="iswc_2020">[ISWC 2020]</b> [3rd Prize](https://github.com/yoanchabot/papers/raw/main/dagobah-certificate-2020.pdf) in [Semantic Web Challenge on Tabular Data to Knowledge Graph Matching 2020](http://www.cs.ox.ac.uk/isg/challenges/sem-tab/2020/index.html/), [19th International Semantic Web Conference (ISWC'20)](https://iswc2020.semanticweb.org/), Athens (remote), Greece, November 1-6, 2020.
 
 ## Demos/Posters in Conferences
 * <b id="eswc_2022">[ESWC 2022]</b> Christophe Sarthou-Camy, Guillaume Jourdain, Yoan Chabot, Pierre Monnin, Frédéric Deuzé, Viet-Phi Huynh, Jixiong Liu, Thomas Labbé and Raphaël Troncy. [DAGOBAH UI: A New Hope For Semantic Table Interpretation](https://github.com/yoanchabot/papers/raw/main/chabot2022a.pdf). In [19th European Semantic Web Conference (ESWC'22)]([https://2022.eswc-conferences.org/](https://2022.eswc-conferences.org/)), Hersonissos, Greece, May 29-June 2, 2022.
@@ -34,12 +33,10 @@ title: Publications
 * <b id="egc_2014">[EGC 2014]</b> Yoan Chabot, Aurélie Bertaux, Christophe Nicolle and Tahar Kechadi. [Reconstruction et analyse sémantique de chronologies cybercriminelles](https://github.com/yoanchabot/papers/raw/main/chabot2014c.pdf). In [14th Conférence Francophone sur l'Extraction et la Gestion des Connaissances (EGC'14)](http://egc2014.irisa.fr/), Rennes, France, January 28-31, 2014.
 
 ## Keynote/Talks in Conferences 
-
 * <b id="semwebpro_2021">[SemWeb.Pro 2021]</b> Yoan Chabot, Pierre Monnin and Thomas Labbé. [DAGOBAH : Des outils pour l'interprétation automatique de données tabulaires](https://2021.semweb.pro/presentations/dagobah/). In [SemWeb.Pro 2021](https://2021.semweb.pro/), Remote, December 9, 2021. [Video here](https://peertube.semweb.pro/w/oqyW5garzmKRHrJTGKne4v)
 * <b id="egc_2021">[EGC 2021]</b> Yoan Chabot and Pierre Monnin. [DAGOBAH : Activité de recherche Orange autour de l'annotation sémantique de données tabulaires](https://github.com/yoanchabot/papers/raw/main/chabot2021a.pdf). In [5 ème atelier TextMine sur la fouille de Textes](http://www.vincentlemaire-labs.fr/TM2021/), In [21th Conférence Francophone sur l'Extraction et la Gestion des Connaissances (EGC'21)](https://egc2021.sciencesconf.org/), Montpellier (remote), France January 25-29, 2021.
 
 ## Book Chapters
-
 * <b id="igi_2015a">[IGI 2015]</b> Yoan Chabot, Aurélie Bertaux, Christophe Nicolle and Tahar Kechadi. [Event reconstruction: A state of the art](https://github.com/yoanchabot/papers/raw/main/chabot2015b.pdf). In [Handbook of Research on Digital Crime, Cyberspace Security, and Information Assurance](https://www.igi-global.com/book/handbook-research-digital-crime-cyberspace/104750), pages 231-245, 2015. IGI Global.
 * <b id="igi_2015b">[IGI 2015]</b> Yoan Chabot and Christophe Nicolle. [Semantic Measures](https://github.com/yoanchabot/papers/raw/main/chabot2014d.pdf). In [Encyclopedia of Information Science and Technology](https://www.igi-global.com/book/encyclopedia-information-science-technology-third/76156), pages 4690-4698, 2015. IGI Global.
 
@@ -48,7 +45,6 @@ title: Publications
 * <b id="thesis_2015">[Thesis 2015]</b> Yoan Chabot. [Construction, Enrichment and Semantic Analysis of Timelines: Application to Digital Forensics](https://github.com/yoanchabot/papers/raw/main/chabot2015d.pdf), University College Dublin, Dublin, Ireland and University of Burgundy, Dijon, France, 2014. PhD Supervisors : [Christophe Nicolle](https://scholar.google.fr/citations?user=sIwxy6IAAAAJ&hl=fr), [Aurélie Bertaux](https://scholar.google.fr/citations?hl=fr&user=virzKdYAAAAJ) and [Tahar Kechadi](https://people.ucd.ie/tahar.kechadi).
 
 ## In Press
-
 * <b id="poc_media_2021">[POC Media 2021]</b> ["Orange veut exploiter les données dormantes des entreprises"](https://www.pocmedia.fr/orange-veut-exploiter-les-donnees-dormantes-des-entreprises/). In blog POC Media, 2021.
 * <b id="imtech_2020">[IMTECH 2020]</b> ["DAGOBAH: Tables, AI will understand"](https://imtech.wp.imt.fr/en/2020/10/19/dagobah-tables-ai-will-understand/). In blog I'MTech, 2020.
 * <b id="hello_future_2020a">[Hello Future 2020]</b> Thomas Labbé, Yoan Chabot, Jixiong Liu and Raphaël Troncy. [DAGOBAH: Make Tabular Data Speak Great Again](https://hellofuture.orange.com/en/dagobah-make-tabular-data-speak-great-again/). In Orange Hello Future Research Blog, 2020.
@@ -56,7 +52,6 @@ title: Publications
 * <b id="hello_future_2017">[Hello Future 2017]</b> Yoan Chabot, Gilles Privat and Fano Ramparany. [Ontologies for the rest of us!](https://hellofuture.orange.com/en/ontologies-for-the-rest-of-us/). In Orange Hello Future Research Blog, 2017.
 
 ## Reviewer
-
 * Journal Reviewer
   * [Journal of Web Semantics](https://www.journals.elsevier.com/journal-of-web-semantics) since 2021
   * [Computers & Security](https://www.journals.elsevier.com/computers-and-security) since 2018
