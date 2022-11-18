@@ -4,7 +4,7 @@ title: Publications
 ---
  
 ## Journal Articles
-* <b id="jows_2022">[Journal of Web Semantics 2022]</b> Jixiong Liu, Yoan Chabot, Raphaël Troncy, Viet-Phi Huynh, Thomas Labbé and Pierre Monnin. From Tabular Data to Knowledge Graphs: A Survey of Semantic Table Interpretation Tasks and Methods. In [Journal of Web Semantics](https://www.sciencedirect.com/journal/journal-of-web-semantics), under production, 2022.
+* <b id="jows_2022">[Journal of Web Semantics 2022]</b> Jixiong Liu, Yoan Chabot, Raphaël Troncy, Viet-Phi Huynh, Thomas Labbé and Pierre Monnin. [From Tabular Data to Knowledge Graphs: A Survey of Semantic Table Interpretation Tasks and Methods](https://github.com/yoanchabot/papers/raw/main/liu2022b.pdf). In [Journal of Web Semantics](https://www.sciencedirect.com/journal/journal-of-web-semantics), under production, 2022.
 * <b id="digital_investigation_2015">[Digital Investigation 2015]</b> Yoan Chabot, Aurélie Bertaux, Christophe Nicolle and Tahar Kechadi. [An ontology-based approach for the reconstruction and analysis of digital incidents timelines](https://github.com/yoanchabot/papers/raw/main/chabot2015a.pdf). In [Digital Investigation](https://www.sciencedirect.com/journal/digital-investigation), 15, pages 83-100, 2015.
 * <b id="digital_investigation_2014">[Digital Investigation 2014]</b> Yoan Chabot, Aurélie Bertaux, Christophe Nicolle and Tahar Kechadi. [A complete formalized knowledge representation model for advanced digital forensics timeline analysis](https://github.com/yoanchabot/papers/raw/main/chabot2014a.pdf). In [Digital Investigation](https://www.sciencedirect.com/journal/digital-investigation), 11, pages 95-105, 2014.
 
