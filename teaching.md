@@ -10,7 +10,7 @@ title: Teaching
 * [2020- ] Thesis co-director of [Jixiong Liu](https://www.yansera.com/) for his PhD co-supervised with [Raphaël Troncy](https://www.eurecom.fr/~troncy/) ([EURECOM](http://www.eurecom.fr)), "Production and valorization of semantic annotation on structured datasets through a recommendation process based on graph embedding techniques"
 
 ## Students (past)
-* [2020] Supervision of Antoine Py for his final year internship at [University of Montbéliard](http://www.univ-fcomte.fr/), "Development of a Web application for annotation and semantic integration of tabular data"
+* [2020] Supervision of Antoine Py for his final year internship at [University De Franche-Comté](http://www.univ-fcomte.fr/), "Development of a Web application for annotation and semantic integration of tabular data"
 * [2019] Supervision of [Jixiong Liu](https://www.yansera.com/) for his final year internship at [ESIGELEC Rouen](http://www.esigelec.fr/), "Implementation of a prototype for annotating tabular data using semantic models"
 * [2018] Supervision of Nicolas Geist for his final year internship at [INSA Lyon](https://www.insa-lyon.fr/), "Development of a platform for detecting illegal activities using knowledge engineering and machine learning"
 
