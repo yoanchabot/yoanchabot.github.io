@@ -61,6 +61,9 @@ title: Publications
   * [Digital Investigation](https://www.journals.elsevier.com/digital-investigation) since 2016
   * [Expert Systems with Applications](https://www.journals.elsevier.com/expert-systems-with-applications) since 2015
 
+* Senior program comitee member
+  * [ESWC 2023](https://2023.eswc-conferences.org/)
+
 * Program commitee member
   * [TheWebConf2023](https://www2023.thewebconf.org/), [TheWebConf2022](https://www2022.thewebconf.org/)
   * [ESWC 2022](https://2022.eswc-conferences.org/), [ESWC 2021](https://2021.eswc-conferences.org/), [ESWC 2020](https://2020.eswc-conferences.org/)
