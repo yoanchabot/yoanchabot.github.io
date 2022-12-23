@@ -19,7 +19,9 @@ title: Training & Skills
 
 ## Training & Certifications
 <b>Non-technical</b>
-* 2020-2021:
+* 2022:
+  * Google Project Management Certificate, 6 months training. [Certificate](https://github.com/yoanchabot/papers/raw/main/Coursera SND53FTNS7UW.pdf). Description: Hands-on program that covers traditional and Agile project management approaches throughout the life cycle of a project.
+* 2021:
   * Orange Emerging Talent Development Program, 53h training
 * 2019 :
   * Intellectual Property issues and best practices for innovation, 6h training
