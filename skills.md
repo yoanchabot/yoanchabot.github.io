@@ -20,9 +20,10 @@ title: Training & Skills
 ## Training & Certifications
 <b>Non-technical</b>
 * 2022:
-  * Google Project Management Certificate, 6 months training. [Certificate](https://github.com/yoanchabot/papers/raw/main/Coursera_SND53FTNS7UW.pdf). Description: Hands-on program that covers traditional and Agile project management approaches throughout the life cycle of a project.
+  * Google Project Management Certificate, 6 months training. [Coursera Certificate](https://github.com/yoanchabot/papers/raw/main/Coursera_SND53FTNS7UW.pdf). Description: Hands-on program that covers traditional and Agile project management approaches throughout the life cycle of a project.
 * 2021:
   * Orange Emerging Talent Development Program, 53h training
+  * How to Manage a Remote Team Certificate, 11h training. [Coursera Certificate](https://github.com/yoanchabot/papers/raw/main/Coursera_RMG4HE6FJHMT.pdf). Description: Build a remote organizational culture and practices. Lead in a remote environment. Create a foundational strategy for executing a remote transformation.
 * 2019 :
   * Intellectual Property issues and best practices for innovation, 6h training
   * Training to supervise doctoral students, 7h training
