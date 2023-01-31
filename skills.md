@@ -29,6 +29,8 @@ title: Training & Skills
   * Training to supervise doctoral students, 7h training
 
 <b>Technical</b>
+* 2023: 
+  * Deep Learning Specialization, 6 months training. In progress. Description: Coursera program to build and train neural network architectures such as Convolutional Neural Networks, Recurrent Neural Networks, LSTMs, Transformers, and learn how to make them better with strategies such as Dropout, BatchNorm, Xavier/He initialization, and more. 
 * 2020:
   * Using docker for testing and development, 8h training
 * 2019:
