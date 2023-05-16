@@ -4,7 +4,7 @@ title: Teaching
 ---
 
 ## Students (current)
-* [2023-] Co-supervision (main supervisor: [Lionel Tailhardat](https://genears.github.io/)) of Benjamin Stach for his final year internship at [UTBM University of Technology](http://www.univ-fcomte.fr/), "Development of a solution for collecting and annotating activity traces for an illicit activity detection platform using knowledge engineering and machine learning techniques"
+* [2023-] Co-supervision (main supervisor: [Lionel Tailhardat](https://genears.github.io/)) of [Benjamin Stach](https://benjaminstach.com/) for his final year internship at [UTBM University of Technology](http://www.univ-fcomte.fr/), "Development of a solution for collecting and annotating activity traces for an illicit activity detection platform using knowledge engineering and machine learning techniques"
 * [2023-] Co-supervision (main supervisor: Antoine Py) of Yassine Trabelsi for his final year internship at [Esprit School of engineering](https://esprit.tn/), "Développement d'outils web de visualisation et d'interrogation de graphes de connaissances"
 * [2020- ] Thesis co-director of [Lionel Tailhardat](https://genears.github.io/) for his PhD co-supervised with [Raphaël Troncy](https://www.eurecom.fr/~troncy/) ([EURECOM](http://www.eurecom.fr)), "Synergy between knowledge graphs and machine learning for the detection of anomalies"
 
