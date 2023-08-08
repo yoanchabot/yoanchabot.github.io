@@ -1,0 +1,2 @@
+--Démarrer site en local
+bundle exec jekyll serve --watch

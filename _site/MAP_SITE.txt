@@ -1,0 +1,40 @@
+
+-Teaching and students
+-Formation
+-CV
+-Miscellenaous
+	Guitar
+	Video Games
+
+
+
+
+
+
+-Orienter CV Linkedin et CV en ligne sur le thème de l'IA
+-Ajouter formation et attestation dans CV en ligne (formations ORANGE)
+-MAJ bloc contact
+-MAJ résumé
+
+
+-MAJ projet en cours -> ancien projets
+-Ajout mon Github dans minimap
+-Ajout des projets Hobbies et liens vers Github
+
+
+-Ajouter summer school RW2018
+
+-Ajouter formation SST et autres formations chez Orange (voir le site Orange Learning)
+
+
+-MAJ compétences
+
+-MAJ autres activités
+
+
+-Update liens trad W3C
+
+-MAJ Research Gate
+
+-Ajouter formation Data Science sur Linkedin
+-Ajouter formations Big Data sur Linkedin (Spark, ELK, Hadoop)
