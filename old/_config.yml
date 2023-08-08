@@ -1,0 +1,31 @@
+title: Yoan Chabot
+url: "http://yoanchabot.github.io"
+baseurl: ""
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: yes
+footer_text: "Powered by Jekyll and \"researcher\" by Ankit Sultana"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "index"
+ - name: "Research Projects"
+   link: "research"
+ - name: "Publications and Research Activities"
+   link: "publications"
+ - name: "Teaching"
+   link: "teaching"
+ - name: "Training & Skills"
+   link: "skills"
+ - name: "Other Pro. Activities"
+   link: "activities"
+ - name: "Hobbies"
+   link: "hobbies"
