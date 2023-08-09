@@ -1,4 +1,5 @@
 ---
+permalink: /
 title: "Yoan Chabot"
 excerpt: "About me"
 author_profile: true
@@ -20,4 +21,12 @@ Enjoy your visit!
 # 🚀News
 ======
 
-[2023-08] New website under development. More is coming!
+[2023-06] 📄 New paper accepted TaDA@VLDB2023
+[2023-06] Thrilled to announce that I am now the coordinator of the ANR ECLADATTA project
+[2023-05] NORIA presented during ESWC2023 + release of several open-source tools (NORIA-O V0.3, ssb-consum-up, SMASSIF-RML)
+[2023-02] Congrats to Dr Liu, my first PhD student, for passing his PhD viva! 🎆
+[2023-01] Taking the lead of NEPAL/Knowledge research project 🧙
+[2023-01] Senior program comittee member of ESWC2023
+[2022-12] Reviewer for industry track of TheWebConf2023
+[2022-11] 📕 Our research squad has released an up-to-date review of Semantic Table Interpretation approaches
+[2022-10] 🥇 1st Prize Accuracy in SemTab challenge @ISWC2022
