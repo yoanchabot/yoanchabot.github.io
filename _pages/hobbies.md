@@ -27,7 +27,7 @@ I continue to practice first aid as a first aid worker.
 
 I started to play the guitar in high-school and bass guitar recently in a rock band named "404 Not Found"
 [Instagram](https://www.instagram.com/404_not_found_band/)
-![Logo404]({{ site.baseurl }}/images/404_logo.jpg "Logo404")
+![Logo404]({{ site.baseurl }}/images/404_logo.jpg "Logo404" | width=100)
 
 I am always up for a game of Age of Empires 2, Team Fortress 2, Rocket League, Battlefront 2 and many others...
 
