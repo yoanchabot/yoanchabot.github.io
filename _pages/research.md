@@ -5,10 +5,10 @@ author_profile: true
 ---
 
 ## ECLADATTA 
-**TBD**
+**Coming soon**
 
 ## Knowledge
-**TBD**
+**Coming soon**
 
 ## DAGOBAH
 <b>Keywords:</b> Tabular Data, Knowledge Extraction, Knowledge Graph, Semantic Annotation
