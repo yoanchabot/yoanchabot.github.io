@@ -1,5 +1,4 @@
 ---
-permalink: /
 title: "Yoan Chabot"
 excerpt: "About me"
 author_profile: true
