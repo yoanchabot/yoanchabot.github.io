@@ -20,7 +20,6 @@ Enjoy your visit!
 
 # 🚀News
 ======
-
 [2023-06] 📄 New paper accepted TaDA@VLDB2023
 [2023-06] Thrilled to announce that I am now the coordinator of the ANR ECLADATTA project
 [2023-05] NORIA presented during ESWC2023 + release of several open-source tools (NORIA-O V0.3, ssb-consum-up, SMASSIF-RML)
@@ -30,3 +29,4 @@ Enjoy your visit!
 [2022-12] Reviewer for industry track of TheWebConf2023
 [2022-11] 📕 Our research squad has released an up-to-date review of Semantic Table Interpretation approaches
 [2022-10] 🥇 1st Prize Accuracy in SemTab challenge @ISWC2022
+
