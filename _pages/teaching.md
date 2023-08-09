@@ -1,5 +1,5 @@
 ---
-permalink: /teaching.html
+permalink: teaching.html
 title: "Teaching"
 author_profile: true
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: /hobbies.html
+permalink: hobbies.html
 title: "Hobbies"
 author_profile: true
 ---

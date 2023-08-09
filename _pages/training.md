@@ -1,5 +1,5 @@
 ---
-permalink: /training.html
+permalink: training.html
 title: "Training"
 author_profile: true
 ---

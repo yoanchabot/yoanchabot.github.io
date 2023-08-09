@@ -1,5 +1,5 @@
 ---
-permalink: /research.html
+permalink: research.html
 title: "Research Projects"
 author_profile: true
 ---
