@@ -10,17 +10,17 @@ author_profile: true
 After serving for four years as young firefighter, I joined the fire and rescue center of Marcigny (Saône et Loire, Burgundy, France) in 2004 as a volunteer firefighter and stopped in 2014.
 I continue to practice first aid as a first aid worker.
 
-* [2018] Rescuer first-aid worker certificate
-* [2017] Fire safety & extinguishers certificate
-* [2008] Promotion to the rank of first-class firefighter
-* [2007] Second-class firefighter training validation
-* [2005]
+* **[2018]** Rescuer first-aid worker certificate
+* **[2017]** Fire safety & extinguishers certificate
+* **[2008]** Promotion to the rank of first-class firefighter
+* **[2007]** Second-class firefighter training validation
+* **[2005]**
   * Training certificate in first aid on road
   * Training certificate for team-based first aid practices
   * Training certificate for thermal incidents level 1
   * Training certificate for the use of self-contained breathing apparatus
-* [2004] Young firefighter training validation
-* [2003] Training certificate in first-aid
+* **[2004]** Young firefighter training validation
+* **[2003]** Training certificate in first-aid
 
 ## Algorithmic and programming
 ![Algorithm]({{ site.baseurl }}/images/algorithm.jpg "Algorithm")
@@ -44,7 +44,9 @@ Here are some nice races in French-County or nearby:
 ## Music/Reading/Video Games/...
 ![Music]({{ site.baseurl }}/images/music.jpg "Music")
 
-I started to play the guitar in high-school and bass guitar recently in a rock band.
+I started to play the guitar in high-school and bass guitar recently in a rock band named "404 Not Found"
+[Instagram](https://www.instagram.com/404_not_found_band/)
+![Logo404]({{ site.baseurl }}/images/404_logo.jpg "Logo404")
 
 I am always up for a game of Age of Empires 2, Team Fortress 2, Rocket League, Battlefront 2 and many others...
 
