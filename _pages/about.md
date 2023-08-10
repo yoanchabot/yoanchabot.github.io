@@ -20,8 +20,10 @@ Enjoy your visit!
 
 # 🚀News
 * **[2023-06]** 📄 New paper accepted TaDA@VLDB2023
+* **[2023-06]** Thesis co-director of Lucas Jarnac for his PhD co-supervised with LORIA
 * **[2023-06]** Thrilled to announce that I am now the coordinator of the ANR ECLADATTA project
 * **[2023-05]** NORIA presented during ESWC2023 ([paper](./publications.html#eswc_2023_a) + release of several open-source tools (NORIA-O V0.3, ssb-consum-up, SMASSIF-RML)
+* **[2023-04]** Co-supervision of Benjamin Stach and Yassine Trabelsi for their final year internship
 * **[2023-02]** Congrats to Dr Liu, my first PhD student, for passing his PhD viva! 🎆
 * **[2023-01]** Taking the lead of NEPAL/Knowledge research project 🧙
 * **[2023-01]** Senior program comittee member of ESWC2023
