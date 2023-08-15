@@ -5,10 +5,22 @@ author_profile: true
 ---
 
 ## ECLADATTA 
-**Coming soon**
+I am the lead coordinator of the ECLADATTA project (2023 - 2026), a French national research project financed by the French National Research Agency (Agence Nationale de la Recherche - ANR) under grant ANR-22-CE23-0020.
+
+The consortium members are [EURECOM](https://www.eurecom.fr/), [IRIT](https://www.irit.fr/en/home/) and [Orange](https://hellofuture.orange.com/en/).
+
+ECLADATTA stands for ExtraCtion of LAtent knowledge in Documents by conjointly Analyzing Texts and TAbles.
+
+The ECLADATTA project aims at leveraging the complementarity between tables, texts, and knowledge graphs to propose a joint knowledge extraction and reconciliation process. The overall and original objective of ECLADATTA is to propose new methods and to develop tools:
+* to assess the relatedness between tables and texts (within documents and across documents) and build on-demand text-table corpora based on a variety of filtering criteria
+* to automatically extract knowledge jointly from tables and related texts
+* to check the consistency of knowledge from tables, texts, and knowledge graphs
+* to refine tables, texts, and general or domain-specific knowledge graphs
+
+More info on the official Website: [ECLADATTA](https://ecladatta.github.io/)
 
 ## Knowledge
-**Coming soon**
+I am leading a research project named Knowledge at Orange. 
 
 ## DAGOBAH
 <b>Keywords:</b> Tabular Data, Knowledge Extraction, Knowledge Graph, Semantic Annotation
