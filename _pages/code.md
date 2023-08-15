@@ -6,25 +6,25 @@ author_profile: true
 
 ## Radar Station
 
-[GitHub🔗](https://github.com/Orange-OpenSource/radar-station)
+[GitHub](https://github.com/Orange-OpenSource/radar-station)🔗
 
 Radar Station is cell-entity disambiguation tool for the domain semantic table interpretation (STI). It leverages graph embeddings to optimize the result of a given previous cell-entity annotation system.
 
 ## NORIA-O 
 
-[GitHub🔗](https://github.com/Orange-OpenSource/noria-ontology)
+[GitHub](https://github.com/Orange-OpenSource/noria-ontology)🔗
 
 The NORIA-O project is a data model for IT networks, events and operations information. The ontology is developed using web technologies (e.g. RDF, OWL, SKOS) and is intended as a structure for realizing an IT Service Management (ITSM) Knowledge Graph (KG) for Anomaly Detection (AD) and Risk Management applications. The model has been developed in collaboration with operational teams, and in connection with third parties linked vocabularies.
 
 ## SMASSIF-RML
 
-[GitHub🔗](https://github.com/Orange-OpenSource/SMASSIF-RML)
+[GitHub](https://github.com/Orange-OpenSource/SMASSIF-RML)🔗
 
 A Semantic Web stream processing solution with declarative data mapping capability based on a modified version of the RMLMapper-java tool and extensions to the StreamingMASSIF framework.
 
 ## ssb-consum-up
 
-[GitHub🔗](https://github.com/Orange-OpenSource/ssb-consum-up)
+[GitHub](https://github.com/Orange-OpenSource/ssb-consum-up)🔗
 
 A Semantic Service Bus (SSB) consumer to SPARQL Update.
 The ssb-consum-up (scu thereafter) solution consumes Kafka messages from some topic where the <k,v> message structure contains RDF data in JSON-LD syntax.
@@ -34,7 +34,7 @@ Processed semantic messages trigger SPARQL Update queries to some downstream SPA
 
 ## Graphameleon Web extension
 
-[GitHub🔗](https://github.com/Orange-OpenSource/graphameleon)
+[GitHub](https://github.com/Orange-OpenSource/graphameleon)🔗
 
 Graphameleon is a Web Browser Extension which collects and semantizes Web navigation traces.
 Following research on the NORIA-O and DynaGraph projects, the Graphameleon Web extension brings visualization and recording of Web navigation traces at the browser level. Then, leveraging knowledge graph representations, to perform User and Entity Behavior Analytics (UEBA) and Anomaly Detection (AD).
