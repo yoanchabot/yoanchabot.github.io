@@ -36,7 +36,9 @@ author_profile: true
   * Advanced Deep Learning for NLP, 21h training. Description: Text normalisation and vectorisation, RNNs, Transformers.
 * **[2021]** NLP and text mining essentials, 21h training. Description: keyword extraction, word2vec/embeddings, classification, text summarisation.
 * **[2020]** Using docker for testing and development, 8h training
-* **[2019]** Orange data science training program at Polytechnic Institute of Paris, 120h training + professional project + oral exam
+* **[2019]**
+  * Orange data science training program at Polytechnic Institute of Paris, 120h training + professional project + oral exam
+  * Deep learning basics, 14h training
 * **[2018]** RW2018, 14th International Reasoning Web Summer School, 22 - 26 Sep 2018  
 * **[2017]**
   * Machine Learning, 14h training
