@@ -31,7 +31,7 @@ author_profile: true
 
 ### Technical
 * **[2023]**
-  * Generative AI with Large Language Models, 3 weeks training. Description: Coursera program about Generative AI with Large Language Models: fundamentals on transformers, pre-training and fine-tuning techniques, PEFT techniques and RLHF.
+  * Generative AI with Large Language Models, 3 weeks training. [Coursera Certificate](https://github.com/yoanchabot/papers/raw/main/Coursera CMZBA9PUDLJ3.pdf). Description: Coursera program about Generative AI with Large Language Models: fundamentals on transformers, pre-training and fine-tuning techniques, PEFT techniques and RLHF.
   * Deep Learning Specialization, 6 months training. In progress. Description: Coursera program to build and train neural network architectures such as Convolutional Neural Networks, Recurrent Neural Networks, LSTMs, Transformers, and learn how to make them better with strategies such as Dropout, BatchNorm, Xavier/He initialization, and more. 
 * **[2020]**
   * Using docker for testing and development, 8h training
