@@ -20,8 +20,7 @@ author_profile: true
 
 ## Training & Certifications
 ### Non-technical
-* **[2022]**
-  * Google Project Management Certificate, 6 months training. [Coursera Certificate](https://github.com/yoanchabot/papers/raw/main/Coursera_SND53FTNS7UW.pdf). Description: Hands-on program that covers traditional and Agile project management approaches throughout the life cycle of a project.
+* **[2022]** Google Project Management Certificate, 6 months training. [Coursera Certificate](https://github.com/yoanchabot/papers/raw/main/Coursera_SND53FTNS7UW.pdf). Description: Hands-on program that covers traditional and Agile project management approaches throughout the life cycle of a project.
 * **[2021]**
   * Orange Emerging Talent Development Program, 53h training
   * How to Manage a Remote Team Certificate, 11h training. [Coursera Certificate](https://github.com/yoanchabot/papers/raw/main/Coursera_RMG4HE6FJHMT.pdf). Description: Build a remote organizational culture and practices. Lead in a remote environment. Create a foundational strategy for executing a remote transformation.
@@ -32,13 +31,13 @@ author_profile: true
 ### Technical
 * **[2023]**
   * Generative AI with Large Language Models, 3 weeks training. [Coursera Certificate](https://github.com/yoanchabot/papers/raw/main/Coursera_CMZBA9PUDLJ3.pdf). Description: Coursera program about Generative AI with Large Language Models: fundamentals on transformers, pre-training and fine-tuning techniques, PEFT techniques and RLHF.
-  * Deep Learning Specialization, 6 months training. In progress. Description: Coursera program to build and train neural network architectures such as Convolutional Neural Networks, Recurrent Neural Networks, LSTMs, Transformers, and learn how to make them better with strategies such as Dropout, BatchNorm, Xavier/He initialization, and more. 
-* **[2020]**
-  * Using docker for testing and development, 8h training
-* **[2019]**
-  * Orange data science training program at Polytechnic Institute of Paris, 120h training + professional project + oral exam
-* **[2018]**
-  * RW2018, 14th International Reasoning Web Summer School, 22 - 26 Sep 2018  
+  * Deep Learning Specialization, 6 months training. In progress. Description: Coursera program to build and train neural network architectures such as Convolutional Neural Networks, Recurrent Neural Networks, LSTMs, Transformers, and learn how to make them better with strategies such as Dropout, BatchNorm, Xavier/He initialization, and more.
+  * Mastering Deep Learning, 21h training. Description: TensorFlow 2/Keras, CNNs, RNNs, Deep Generative Models.
+  * Advanced Deep Learning for NLP, 21h training. Description: Text normalisation and vectorisation, RNNs, Transformers.
+* **[2021]** NLP and text mining essentials, 21h training. Description: keyword extraction, word2vec/embeddings, classification, text summarisation.
+* **[2020]** Using docker for testing and development, 8h training
+* **[2019]** Orange data science training program at Polytechnic Institute of Paris, 120h training + professional project + oral exam
+* **[2018]** RW2018, 14th International Reasoning Web Summer School, 22 - 26 Sep 2018  
 * **[2017]**
   * Machine Learning, 14h training
   * Python development, 40h training
@@ -46,5 +45,4 @@ author_profile: true
 * **[2016]**
   * Big & Fast Data, 7h training
   * Hadoop 2.X with Hortonworks & Java, 28h training
-* **[2015]**
-  * Elastic Search/Logstash, Kibana, 14h training
+* **[2015]** Elastic Search/Logstash, Kibana, 14h training
