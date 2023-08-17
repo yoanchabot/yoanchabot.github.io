@@ -6,12 +6,11 @@ author_profile: true
 
 <a name="ecladatta"></a> 
 ## ECLADATTA 
+**Keywords:** Knowledge Extraction, Knowledge Graph, Joint Extraction Text/Table
+
 I am the lead coordinator of the ECLADATTA project (2023 - 2026), a French national research project financed by the French National Research Agency (Agence Nationale de la Recherche - ANR) under grant ANR-22-CE23-0020.
-
 The consortium members are [EURECOM](https://www.eurecom.fr/), [IRIT](https://www.irit.fr/en/home/) and [Orange](https://hellofuture.orange.com/en/).
-
 ECLADATTA stands for ExtraCtion of LAtent knowledge in Documents by conjointly Analyzing Texts and TAbles.
-
 The ECLADATTA project aims at leveraging the complementarity between tables, texts, and knowledge graphs to propose a joint knowledge extraction and reconciliation process. The overall and original objective of ECLADATTA is to propose new methods and to develop tools:
 * to assess the relatedness between tables and texts (within documents and across documents) and build on-demand text-table corpora based on a variety of filtering criteria
 * to automatically extract knowledge jointly from tables and related texts
@@ -23,20 +22,24 @@ More info on the official Website: [ECLADATTA](https://ecladatta.github.io/)
 
 <a name="knowledge"></a> 
 ## Knowledge
+**Keywords:** Knowledge Graph, Large Language Models, Data Management
+
+**Overview:** 
 I am leading a research project named Knowledge at Orange. This project contributes to advances in the scientific and technological state of the art in natural language processing and knowledge engineering. These breakthroughs are then applied to new value-added service concepts for the Orange Group. The project brings together about 15 to 20 researchers and engineers in the fields of NLP and knowledge engineering.
 
 
 <a name="dagobah"></a> 
 ## DAGOBAH
-<b>Keywords:</b> Tabular Data, Knowledge Extraction, Knowledge Graph, Semantic Annotation
+**Keywords:** Tabular Data, Knowledge Extraction, Knowledge Graph, Semantic Annotation
 
-<b>Context:</b> 
+**Context and Highlights:**
 * Co-creation of DAGOBAH in 2018
 * Project manager with a research team of approx. 14 people
 * Collaboration with EURECOM + co-supervision of a PhD student
 * 1st Prize (Accuracy track) SemTab2021, 3rd Prize SemTab2020
 
-<b>Overview:</b> Within the ever-expanding Web of data, more and more knowledge graphs (KGs) become available. 
+**Overview:** 
+Within the ever-expanding Web of data, more and more knowledge graphs (KGs) become available. 
 However, these KGs may suffer from inconsistency and incompleteness issues. 
 Hence, one can envision to either correct or complete KGs by extracting information from various sources such as web tables and texts available in Web pages. 
 Interestingly, tables often constitute a major source of information since large parts of both companies internal repositories and Web pages are represented in tabular formats. 
@@ -59,14 +62,14 @@ DAGOBAH aims at proposing solutions to semantically anotate tables and to exploi
 
 <a name="noria"></a> 
 ## NORIA
-**TBD**
-<b>Keywords:</b> Anomaly Detection, Cybersecurity, Knowledge Graph
+**Keywords:** Anomaly Detection, Cybersecurity, Knowledge Graph
 
-<b>Context:</b>
+**Context and Highlights:**
 * Co-creation of NORIA in 2015
 * Collaboration with EURECOM + co-supervision of a PhD student
 
-<b>Overview:</b> Soon
+**Overview:** 
+The goal of the NORIA (machine learNing, Ontology and Reasoning for the Identification of Anomalies) research project is to build an innovative pipeline for advanced anomaly detection over the network infrastructures and cyber security application domains with help of Knowledge Graphs and neuro-symbolic models.
 
 ---
 
