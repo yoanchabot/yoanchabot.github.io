@@ -26,6 +26,7 @@ Enjoy your visit!
 * **[2023-04]** Co-supervision of Benjamin Stach and Yassine Trabelsi for their final year internship
 * **[2023-02]** Congrats to Dr Liu, my first PhD student, for passing his PhD viva! 🎆
 * **[2023-01]** Taking the lead of [NEPAL/Knowledge](https://yoanchabot.github.io/research.html#knowledge) research project 🧙
+* **[2023-01]** Join the Orange Expert AI and Big Data community
 * **[2023-01]** Senior program comittee member of ESWC2023
 * **[2022-12]** Reviewer for industry track of TheWebConf2023
 * **[2022-11]** 📕 Our research squad has released an up-to-date review of Semantic Table Interpretation approaches
