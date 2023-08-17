@@ -24,19 +24,38 @@ More info on the official Website: [ECLADATTA](https://ecladatta.github.io/)
 ## Knowledge
 **Keywords:** Knowledge Graph, Large Language Models, Data Management
 
+**Context and Highlights:**
+* Creation of Knowledge in 2023
+* Project manager with a research team of approx. 20 people
+
 **Overview:** 
 I am leading a research project named Knowledge at Orange. This project contributes to advances in the scientific and technological state of the art in natural language processing and knowledge engineering. These breakthroughs are then applied to new value-added service concepts for the Orange Group. The project brings together about 15 to 20 researchers and engineers in the fields of NLP and knowledge engineering.
 
 
+<a name="noria"></a> 
+## NORIA
+**Keywords:** Anomaly Detection, Cybersecurity, Knowledge Graph
+
+**Context and Highlights:**
+* Co-creation of NORIA in 2015
+* Collaboration with EURECOM + co-supervision of a PhD student
+
+**Overview:** 
+The goal of the NORIA (machine learNing, Ontology and Reasoning for the Identification of Anomalies) research project is to build an innovative pipeline for advanced anomaly detection over the network infrastructures and cyber security application domains with help of Knowledge Graphs and neuro-symbolic models.
+
+---
+
+## Past projects
+
 <a name="dagobah"></a> 
-## DAGOBAH
+### DAGOBAH
 **Keywords:** Tabular Data, Knowledge Extraction, Knowledge Graph, Semantic Annotation
 
 **Context and Highlights:**
 * Co-creation of DAGOBAH in 2018
 * Project manager with a research team of approx. 14 people
 * Collaboration with EURECOM + co-supervision of a PhD student
-* 1st Prize (Accuracy track) SemTab2021, 3rd Prize SemTab2020
+* 1st Prize (Accuracy track) SemTab2022, 1st Prize (Accuracy track) SemTab2021, 3rd Prize SemTab2020
 
 **Overview:** 
 Within the ever-expanding Web of data, more and more knowledge graphs (KGs) become available. 
@@ -59,21 +78,6 @@ DAGOBAH aims at proposing solutions to semantically anotate tables and to exploi
   * <a href="https://yoanchabot.github.io/publications#hello_future_2020a">DAGOBAH: Tables, AI will understand</a> 
 * <a href="https://www.youtube.com/channel/UC30pJdIBeskw5fmIBqsn6ZA">Youtube channel</a>
 
-
-<a name="noria"></a> 
-## NORIA
-**Keywords:** Anomaly Detection, Cybersecurity, Knowledge Graph
-
-**Context and Highlights:**
-* Co-creation of NORIA in 2015
-* Collaboration with EURECOM + co-supervision of a PhD student
-
-**Overview:** 
-The goal of the NORIA (machine learNing, Ontology and Reasoning for the Identification of Anomalies) research project is to build an innovative pipeline for advanced anomaly detection over the network infrastructures and cyber security application domains with help of Knowledge Graphs and neuro-symbolic models.
-
----
-
-## Past projects
 
 <a name="dataforum"></a> 
 ### Dataforum
