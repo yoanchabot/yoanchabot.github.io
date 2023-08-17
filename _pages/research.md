@@ -4,7 +4,8 @@ title: "Research Projects"
 author_profile: true
 ---
 
-<a name="ecladatta"></a> ## ECLADATTA 
+<a name="ecladatta"></a> 
+## ECLADATTA 
 I am the lead coordinator of the ECLADATTA project (2023 - 2026), a French national research project financed by the French National Research Agency (Agence Nationale de la Recherche - ANR) under grant ANR-22-CE23-0020.
 
 The consortium members are [EURECOM](https://www.eurecom.fr/), [IRIT](https://www.irit.fr/en/home/) and [Orange](https://hellofuture.orange.com/en/).
@@ -20,11 +21,13 @@ The ECLADATTA project aims at leveraging the complementarity between tables, tex
 More info on the official Website: [ECLADATTA](https://ecladatta.github.io/)
 
 
-<a name="knowledge"></a> ## Knowledge
+<a name="knowledge"></a> 
+## Knowledge
 I am leading a research project named Knowledge at Orange. This project contributes to advances in the scientific and technological state of the art in natural language processing and knowledge engineering. These breakthroughs are then applied to new value-added service concepts for the Orange Group. The project brings together about 15 to 20 researchers and engineers in the fields of NLP and knowledge engineering.
 
 
-<a name="dagobah"></a> ## DAGOBAH
+<a name="dagobah"></a> 
+## DAGOBAH
 <b>Keywords:</b> Tabular Data, Knowledge Extraction, Knowledge Graph, Semantic Annotation
 
 <b>Context:</b> 
@@ -54,7 +57,8 @@ DAGOBAH aims at proposing solutions to semantically anotate tables and to exploi
 * <a href="https://www.youtube.com/channel/UC30pJdIBeskw5fmIBqsn6ZA">Youtube channel</a>
 
 
-<a name="noria"></a> ## NORIA
+<a name="noria"></a> 
+## NORIA
 **TBD**
 <b>Keywords:</b> Anomaly Detection, Cybersecurity, Knowledge Graph
 
@@ -68,7 +72,8 @@ DAGOBAH aims at proposing solutions to semantically anotate tables and to exploi
 
 ## Past projects
 
-<a name="dataforum"></a> ### Dataforum
+<a name="dataforum"></a> 
+### Dataforum
 <b>Keywords:</b> Data Management, Data Catalog, Traceability, Knowledge Graph
 
 <b>Context:</b> 
@@ -83,7 +88,8 @@ DAGOBAH aims at proposing solutions to semantically anotate tables and to exploi
   * <a href="https://yoanchabot.github.io/publications#hello_future_2020b">Data sharing and processing: the new Tower of Babel?</a>
 
 
-<a name="sadfc"></a> ### SADFC: Semantic Analysis of Digital Forensic Cases
+<a name="sadfc"></a> 
+### SADFC: Semantic Analysis of Digital Forensic Cases
 <b>Keywords:</b> Digital Forensics, Timeline Reconstruction, Semantic Web
 
 <b>Context:</b>
