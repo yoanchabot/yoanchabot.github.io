@@ -71,7 +71,7 @@ author_profile: true
 * [ESWC 2023](https://2023.eswc-conferences.org/)
 
 ### Program commitee member
-* [TheWebConf2023](https://www2023.thewebconf.org/), [TheWebConf2022](https://www2022.thewebconf.org/)
+* [TheWebConf2024](https://www2024.thewebconf.org), [TheWebConf2023](https://www2023.thewebconf.org/), [TheWebConf2022](https://www2022.thewebconf.org/)
 * [ESWC 2022](https://2022.eswc-conferences.org/), [ESWC 2021](https://2021.eswc-conferences.org/), [ESWC 2020](https://2020.eswc-conferences.org/)
 * [EGC 2021](https://egc2021.sciencesconf.org/)
 * [K-CAP 2023](https://www.k-cap.org/2023/index.html), [K-CAP 2021](https://www.k-cap.org/2021/index.html), [K-CAP 2019](http://www.k-cap.org/2019/)
