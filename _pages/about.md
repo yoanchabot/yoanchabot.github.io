@@ -19,6 +19,7 @@ My research focuses on the use of **knowledge engineering** in different applica
 Enjoy your visit!
 
 # 🚀News
+* **[2023-10]** Reviewer for industry track of TheWebConf2024 and IEEE Transactions on Knowledge and Data Engineering 
 * **[2023-06]** 📄 New papers accepted TaDA@VLDB2023 ([paper)](https://yoanchabot.github.io/publications.html#vldb_2023) and GRASEC@ARES2023
 * **[2023-06]** Thesis co-director of Lucas Jarnac for his PhD co-supervised with LORIA
 * **[2023-06]** Thrilled to announce that I am now the coordinator of the [ANR ECLADATTA project](https://yoanchabot.github.io/research.html#ecladatta)
