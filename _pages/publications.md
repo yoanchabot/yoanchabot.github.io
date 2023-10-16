@@ -69,6 +69,7 @@ author_profile: true
 * [Expert Systems with Applications](https://www.journals.elsevier.com/expert-systems-with-applications) since 2015
 
 ### Senior program comitee member
+* [ESWC 2024](https://2024.eswc-conferences.org/)
 * [ESWC 2023](https://2023.eswc-conferences.org/)
 
 ### Program commitee member
