@@ -28,7 +28,7 @@ I continue to practice first aid as a first aid worker.
 I started to play the guitar in high-school and bass guitar recently.
 I spend quite a lot of time on Ableton creating instrumental music. 
 You can find my work (with a colleague) on our Youtube channel: 
-[Dice Dice Youtube Channel]([https://www.instagram.com/404_not_found_band/](https://www.youtube.com/@DiceDiceTheBand)) 
+[Dice Dice Youtube Channel](https://www.youtube.com/@DiceDiceTheBand)
 
 I am also in a rock band named "404 Not Found"
 [Follow us on Instagram](https://www.instagram.com/404_not_found_band/)
