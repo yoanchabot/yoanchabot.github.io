@@ -1,0 +1,21 @@
+main:
+  - title: "Research Projects"
+    url: research.html
+
+  - title: "Publications and Research"
+    url: publications.html
+
+  - title: "Open-source"
+    url: code.html
+      
+  - title: "Teaching"
+    url: teaching.html  
+    
+  - title: "Training and Skills"
+    url: training.html
+        
+  - title: "Hobbies"
+    url: hobbies.html
+
+  - title: "CV"
+    url: cv.html
