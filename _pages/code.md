@@ -4,6 +4,15 @@ title: "Open-source Code"
 author_profile: true
 ---
 
+## Table Annotation (DAGOBAH)
+
+[GitHub](https://github.com/Orange-OpenSource/Table-Annotation)🔗
+
+TableAnnotation is a semantic annotation tool for tables leveraging three steps: 
+1) Table Preprocessing: a set of comprehensive heuristic to clean the table (e.g. fix encoding error), determine table orientation, data types of columns.
+2) Entity Lookup: retrieve a number of entity candidates for mentions in the table, using an elastic search-based entity lookup.
+3) Annotation: disambiguate retrieved entity candidates, select the most relevant entity for each mention. This consists of three tasks, namely Cell-Entity Annotation, Column-Type Annotation, Column-Pair Annotation.
+
 ## Radar Station
 
 [GitHub](https://github.com/Orange-OpenSource/radar-station)🔗

@@ -25,7 +25,12 @@ I continue to practice first aid as a first aid worker.
 ## Music/Reading/Video Games/...
 ![Music]({{ site.baseurl }}/images/music.jpg "Music")
 
-I started to play the guitar in high-school and bass guitar recently in a rock band named "404 Not Found"
+I started to play the guitar in high-school and bass guitar recently.
+I spend quite a lot of time on Ableton creating instrumental music. 
+You can find my work (with a colleague) on our Youtube channel: 
+[Dice Dice Youtube Channel](https://www.youtube.com/@DiceDiceTheBand)
+
+I am also in a rock band named "404 Not Found"
 [Follow us on Instagram](https://www.instagram.com/404_not_found_band/)
 
 ![Logo404]({{ site.baseurl }}/images/404_logo.jpg)
