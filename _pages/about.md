@@ -19,6 +19,10 @@ My research focuses on the use of **knowledge engineering** in different applica
 Enjoy your visit!
 
 # 🚀News
+* **[2024-05]** 📄 New papers accepted TheWebConf2024 ([paper)](https://yoanchabot.github.io/publications.html#www_2024) and ESWC2024 ([paper)](https://yoanchabot.github.io/publications.html#eswc_2024)
+* **[2024-04]** Senior program comitee member for ESWC2024
+* **[2024-02]** Supervision of Boumediene Sari for his final year internship
+* **[2024-01]** New musical project: [DiceDice](https://www.youtube.com/@DiceDiceTheBand)! 
 * **[2023-10]** Reviewer for industry track of TheWebConf2024 and IEEE Transactions on Knowledge and Data Engineering 
 * **[2023-06]** 📄 New papers accepted TaDA@VLDB2023 ([paper)](https://yoanchabot.github.io/publications.html#vldb_2023) and GRASEC@ARES2023
 * **[2023-06]** Thesis co-director of Lucas Jarnac for his PhD co-supervised with LORIA
@@ -30,5 +34,5 @@ Enjoy your visit!
 * **[2023-01]** Join the Orange Expert AI and Big Data community
 * **[2023-01]** Senior program comittee member of ESWC2023
 * **[2022-12]** Reviewer for industry track of TheWebConf2023
-* **[2022-11]** 📕 Our research squad has released an up-to-date review of Semantic Table Interpretation approaches
+* **[2022-11]** 📕 Our research squad has released an up-to-date review of Semantic Table Interpretation approaches ([paper)](https://yoanchabot.github.io/publications.html#jows_2022)
 * **[2022-10]** 🥇 1st Prize Accuracy in SemTab challenge @ISWC2022
