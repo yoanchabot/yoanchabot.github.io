@@ -19,6 +19,8 @@ My research focuses on the use of **knowledge engineering** in different applica
 Enjoy your visit!
 
 # 🚀News
+* **[2024-07]** 🥇 Best paper award IC2024
+* **[2024-05]** 📄 New papers accepted GRASEC@ARES2024 ([paper)](https://yoanchabot.github.io/publications.html#grasec_2024) and IC2024 ([paper)](https://yoanchabot.github.io/publications.html#ic_2024)
 * **[2024-05]** 📄 New papers accepted TheWebConf2024 ([paper)](https://yoanchabot.github.io/publications.html#www_2024) and ESWC2024 ([paper)](https://yoanchabot.github.io/publications.html#eswc_2024)
 * **[2024-04]** Senior program comitee member for ESWC2024
 * **[2024-02]** Supervision of Boumediene Sari for his final year internship
@@ -36,3 +38,4 @@ Enjoy your visit!
 * **[2022-12]** Reviewer for industry track of TheWebConf2023
 * **[2022-11]** 📕 Our research squad has released an up-to-date review of Semantic Table Interpretation approaches ([paper)](https://yoanchabot.github.io/publications.html#jows_2022)
 * **[2022-10]** 🥇 1st Prize Accuracy in SemTab challenge @ISWC2022
+* **[2022-07]** 🥇 Best paper award IC2022
