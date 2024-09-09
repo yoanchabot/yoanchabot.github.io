@@ -9,6 +9,7 @@ author_profile: true
 * **[2020- ]** Thesis co-director of [Lionel Tailhardat](https://genears.github.io/) for his PhD co-supervised with [Raphaël Troncy](https://www.eurecom.fr/~troncy/) ([EURECOM](http://www.eurecom.fr)), "Synergy between knowledge graphs and machine learning for the detection of anomalies"
 * **[2024- ]** Apprenticeship supervisor of Léna Abel at [UTBM](https://www.utbm.fr/), "Développement d’outils de construction de graphes de connaissances d’entreprise". Co-supervision with Frédéric Deuzé.
 * **[2023- ]** Member of the supervisory committee of [Duo Yang](https://www.kuleuven.be/wieiswie/en/person/00162181) for his PhD on Automated Knowledge Graph construction at KU Leuven
+* **[2024- ]** Member of the supervisory committee of [Jean Meunier-Pion](https://www.jmpion.com/) for his PhD on Failure-awareness learning for the design of resilient infrastructures using natural language processing at Université Paris-Saclay
 
 ## 👩‍🎓👨‍🎓 Students (past)
 * **[2024]** Supervision of Boumediene Sari for his final year internship at [University of Montpellier](https://www.umontpellier.fr/), "Développement de robots pour l'enrichissement de graphe de connaissances d'entreprise"
