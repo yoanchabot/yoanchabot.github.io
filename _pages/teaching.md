@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## 👩‍🎓👨‍🎓 Students (current)
-* **[2024- ]** Thesis co-director of [Camille Barboule](https://x.com/BarbouleCamille) for his PhD co-supervised with [Benjamin Piwowarski](https://www.piwowarski.fr/) ([ISIR](https://www.isir.upmc.fr/)), "Information Extraction in Long Multimodal Documents"
+* **[2024- ]** Thesis co-director of [Camille Barboule](https://camillebrl.github.io/) for his PhD co-supervised with [Benjamin Piwowarski](https://www.piwowarski.fr/) ([ISIR](https://www.isir.upmc.fr/)), "Information Extraction in Long Multimodal Documents"
 * **[2023- ]** Thesis co-director of [Lucas Jarnac](https://scholar.google.com/citations?user=O24FhxkAAAAJ&hl=fr) for his PhD co-supervised with [Miguel Couceiro](https://members.loria.fr/mcouceiro/) ([LORIA](https://www.loria.fr/en/)), "Reconciling uncertain knowledge to improve knowledge graphs"
 * **[2020-2024]** Thesis co-director of [Lionel Tailhardat](https://genears.github.io/) for his PhD co-supervised with [Raphaël Troncy](https://www.eurecom.fr/~troncy/) ([EURECOM](http://www.eurecom.fr)), "Synergy between knowledge graphs and machine learning for the detection of anomalies"
 * **[2024- ]** Apprenticeship supervisor of Léna Abel at [UTBM](https://www.utbm.fr/), "Développement d’outils de construction de graphes de connaissances d’entreprise". Co-supervision with Frédéric Deuzé.
