@@ -31,6 +31,10 @@ author_profile: true
 * <a name="egc_2015"></a>**[EGC 2015]** **Yoan Chabot**, Aurélie Bertaux, Christophe Nicolle and Tahar Kechadi. [De la scène de crime aux connaissances: représentation d’évènements et peuplement d’ontologie appliqués au domaine de la criminalistique informatique](https://github.com/yoanchabot/papers/raw/main/chabot2015c.pdf). In 12 ème atelier sur la Fouille de Données Complexes, In [15th Conférence Francophone sur l'Extraction et la Gestion des Connaissances (EGC'15)](https://www.egc.asso.fr/publications/actes-egc/actes-conference-egc-2015.html), Luxembourg, Luxembourg, January 27-30, 2015.
 * <a name="eisic_2014"></a>**[EISIC 2014]** **Yoan Chabot**, Aurélie Bertaux, Christophe Nicolle and Tahar Kechadi. [Automatic timeline construction and analysis for computer forensics purposes](https://github.com/yoanchabot/papers/raw/main/chabot2014b.pdf). In [1st IEEE Joint Intelligence and Security Informatics Conference (IEEE JISIC'14)](http://www.eisic.eu/eisic2014/), The Hague, Netherlands, September 24-26, 2014.
 
+## 💡 Patents
+*  Targeted knowledge graph enrichment using generative AI, 2024
+*  Verbalization of tabular data through semantic table annotation and LLM prompting, 2024
+
 ## 🏆 Challenges 
 * <a name="iswc_2022_c"></a>**[ISWC 2022]** [1st prize (Accuracy Track)](https://github.com/yoanchabot/papers/raw/main/dagobah-certificate-2022.pdf) in [Semantic Web Challenge on Tabular Data to Knowledge Graph Matching 2022](https://sem-tab-challenge.github.io/2022/), [21th International Semantic Web Conference (ISWC'22)](https://iswc2022.semanticweb.org/), remote, China, October 23-27, 2022.
 * <a name="iswc_2021_b"></a>**[ISWC 2021]** [1st prize (Accuracy Track)](https://github.com/yoanchabot/papers/raw/main/dagobah-certificate-2021.pdf) in [Semantic Web Challenge on Tabular Data to Knowledge Graph Matching 2021](http://www.cs.ox.ac.uk/isg/challenges/sem-tab/2021/index.html), [20th International Semantic Web Conference (ISWC'21)](https://iswc2021.semanticweb.org/), remote, USA, October 24-28, 2021.
