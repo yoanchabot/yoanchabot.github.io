@@ -51,7 +51,7 @@ I continue to practice first aid as a first aid worker.
   * Training certificate for the use of self-contained breathing apparatus
 * **[2004]** Young firefighter training validation
 * **[2003]** Training certificate in first-aid
-* 
+  
 ## Algorithmic and programming
 ![Algorithm]({{ site.baseurl }}/images/algorithm.jpg "Algorithm")
 
