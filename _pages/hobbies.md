@@ -4,23 +4,8 @@ title: "Hobbies"
 author_profile: true
 ---
 
-## Firefighter
-![Firefighter]({{ site.baseurl }}/images/firefighter.jpg "Firefighter")
-
-After serving for four years as young firefighter, I joined the fire and rescue center of Marcigny (Saône et Loire, Burgundy, France) in 2004 as a volunteer firefighter and stopped in 2014.
-I continue to practice first aid as a first aid worker.
-
-* **[2018]** Rescuer first-aid worker certificate
-* **[2017]** Fire safety & extinguishers certificate
-* **[2008]** Promotion to the rank of first-class firefighter
-* **[2007]** Second-class firefighter training validation
-* **[2005]**
-  * Training certificate in first aid on road
-  * Training certificate for team-based first aid practices
-  * Training certificate for thermal incidents level 1
-  * Training certificate for the use of self-contained breathing apparatus
-* **[2004]** Young firefighter training validation
-* **[2003]** Training certificate in first-aid
+## Wikimedia
+I have a strong interest in contributing to Wikimedia projects, with a particular focus on Wikidata. As an active contributor under the username [Metafire18](https://www.wikidata.org/wiki/User:Metafire18), I work on enhancing the quality and scope of the knowledge graph by adding structured data to a variety of topics. One of my current projects involves enriching Wikidata with Star Wars-related information, specifically about planets, star systems, and sectors in the Star Wars universe. By integrating this data into the knowledge graph, I aim to make it more accessible and valuable for fans, researchers, and enthusiasts who seek to explore the vast and intricate galaxy of Star Wars through structured, interconnected data.
 
 ## Music/Reading/Video Games/...
 ![Music]({{ site.baseurl }}/images/music.jpg "Music")
@@ -49,6 +34,24 @@ Some great books I love and recommend (for SF and heroic fantasy lovers):
 * [La Horde du Contrevent](https://fr.wikipedia.org/wiki/La_Horde_du_Contrevent) by Alain Damasio
 * [The Belgariad](https://en.wikipedia.org/wiki/The_Belgariad)/[La Belgariade](https://fr.wikipedia.org/wiki/La_Belgariade) by David Eddings
 
+## Firefighter
+![Firefighter]({{ site.baseurl }}/images/firefighter.jpg "Firefighter")
+
+After serving for four years as young firefighter, I joined the fire and rescue center of Marcigny (Saône et Loire, Burgundy, France) in 2004 as a volunteer firefighter and stopped in 2014.
+I continue to practice first aid as a first aid worker.
+
+* **[2018]** Rescuer first-aid worker certificate
+* **[2017]** Fire safety & extinguishers certificate
+* **[2008]** Promotion to the rank of first-class firefighter
+* **[2007]** Second-class firefighter training validation
+* **[2005]**
+  * Training certificate in first aid on road
+  * Training certificate for team-based first aid practices
+  * Training certificate for thermal incidents level 1
+  * Training certificate for the use of self-contained breathing apparatus
+* **[2004]** Young firefighter training validation
+* **[2003]** Training certificate in first-aid
+* 
 ## Algorithmic and programming
 ![Algorithm]({{ site.baseurl }}/images/algorithm.jpg "Algorithm")
 
