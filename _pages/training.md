@@ -16,7 +16,11 @@ author_profile: true
 
 ## Academic background
 * **[2012-2015]** PhD in Computer Science, University of Burgundy/University College Dublin, Reconstruction of events linked to a digital incident for forensic purposes. My research proposes a new approach to construct semantically enriched incident chronologies from voluminous and heterogeneous data sources and analyse them
-* **[2011-2012]** Master STIC R3i, University of Burgundy, Information and Communication Sciences and Technologies: Image Research, Computer Science, Engineering, completed by artificial intelligence modules
+* **[2011-2012]** Master STIC R3i, University of Burgundy, Information and Communication Sciences and Technologies: Image Research, Computer Science, Engineering, with additional artificial intelligence modules
+* **[2010-2011]** Master Degree in Computer Science, University of Burgundy
+* **[2009-2010]** Licence Degree in Computer Science, University of Burgundy
+* **[2007-2009]** Technical University Diploma in Computer Science, University of Burgundy
+
 
 ## Training & Certifications
 ### Technical
