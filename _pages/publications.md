@@ -70,7 +70,7 @@ author_profile: true
 * <a name="hello_future_2017"></a>**[Hello Future 2017]** Yoan Chabot, Gilles Privat and Fano Ramparany. [Ontologies for the rest of us!](https://hellofuture.orange.com/en/ontologies-for-the-rest-of-us/). In Orange Hello Future Research Blog, 2017.
 
 
-## 📑 Reviewer
+## 📑 Roles
 
 ### Journal Reviewer
 * [IEEE Transactions on Knowledge and Data Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69) since 2023
@@ -88,3 +88,6 @@ author_profile: true
 * [ESWC 2022](https://2022.eswc-conferences.org/), [ESWC 2021](https://2021.eswc-conferences.org/), [ESWC 2020](https://2020.eswc-conferences.org/)
 * [EGC 2021](https://egc2021.sciencesconf.org/)
 * [K-CAP 2023](https://www.k-cap.org/2023/index.html), [K-CAP 2021](https://www.k-cap.org/2021/index.html), [K-CAP 2019](http://www.k-cap.org/2019/)
+
+### Orange Expert since 2023
+I have been an Orange Expert since 2023, specializing in the Data-AI community. This community brings together experts from various fields within the company to provide guidance and insight on complex topics, particularly in data and artificial intelligence. As part of this group, I contribute my knowledge and experience to support innovative solutions and help drive the company’s growth in these dynamic areas.
