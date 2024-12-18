@@ -20,6 +20,8 @@ author_profile: true
 
 ## Training & Certifications
 ### Non-technical
+* **[2024]** Docker, create and manage virtual application containers, 21 training. [Certificate](https://github.com/yoanchabot/papers/raw/main/docker_certificate.pdf). Description: understand the principles and positioning of Docker and containers, know how to install Docker in various system contexts, know how to implement it to quickly deploy applications using containers + Docker Compose, and Swarm.
+* **[2024]** Introduction to Generative AI Learning Path, 1 month training. [Coursera Certificate](https://github.com/yoanchabot/papers/raw/main/Coursera_UBEF4JKFO2IK.pdf). Description: This specialization explores the foundations of large language models (LLMs), their diverse applications, and the ethical considerations crucial for responsible AI development and deployment.
 * **[2022]** Google Project Management Certificate, 6 months training. [Coursera Certificate](https://github.com/yoanchabot/papers/raw/main/Coursera_SND53FTNS7UW.pdf). Description: Hands-on program that covers traditional and Agile project management approaches throughout the life cycle of a project.
 * **[2021]**
   * Orange Emerging Talent Development Program, 53h training
