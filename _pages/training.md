@@ -19,18 +19,10 @@ author_profile: true
 * **[2011-2012]** Master STIC R3i, University of Burgundy, Information and Communication Sciences and Technologies: Image Research, Computer Science, Engineering, completed by artificial intelligence modules
 
 ## Training & Certifications
-### Non-technical
-* **[2024]** Docker, create and manage virtual application containers, 21 training. [Certificate](https://github.com/yoanchabot/papers/raw/main/docker_certificate.pdf). Description: understand the principles and positioning of Docker and containers, know how to install Docker in various system contexts, know how to implement it to quickly deploy applications using containers + Docker Compose, and Swarm.
-* **[2024]** Introduction to Generative AI Learning Path, 1 month training. [Coursera Certificate](https://github.com/yoanchabot/papers/raw/main/Coursera_UBEF4JKFO2IK.pdf). Description: This specialization explores the foundations of large language models (LLMs), their diverse applications, and the ethical considerations crucial for responsible AI development and deployment.
-* **[2022]** Google Project Management Certificate, 6 months training. [Coursera Certificate](https://github.com/yoanchabot/papers/raw/main/Coursera_SND53FTNS7UW.pdf). Description: Hands-on program that covers traditional and Agile project management approaches throughout the life cycle of a project.
-* **[2021]**
-  * Orange Emerging Talent Development Program, 53h training
-  * How to Manage a Remote Team Certificate, 11h training. [Coursera Certificate](https://github.com/yoanchabot/papers/raw/main/Coursera_RMG4HE6FJHMT.pdf). Description: Build a remote organizational culture and practices. Lead in a remote environment. Create a foundational strategy for executing a remote transformation.
-* **[2019]** 
-  * Intellectual Property issues and best practices for innovation, 6h training
-  * Training to supervise doctoral students, 7h training
-
 ### Technical
+* **[2024]**
+  * Docker, create and manage virtual application containers, 21 training. [Certificate](https://github.com/yoanchabot/papers/raw/main/docker_certificate.pdf). Description: understand the principles and positioning of Docker and containers, know how to install Docker in various system contexts, know how to implement it to quickly deploy applications using containers + Docker Compose, and Swarm.
+  * Introduction to Generative AI Learning Path, 1 month training. [Coursera Certificate](https://github.com/yoanchabot/papers/raw/main/Coursera_UBEF4JKFO2IK.pdf). Description: This specialization explores the foundations of large language models (LLMs), their diverse applications, and the ethical considerations crucial for responsible AI development and deployment.
 * **[2023]**
   * Generative AI with Large Language Models, 3 weeks training. [Coursera Certificate](https://github.com/yoanchabot/papers/raw/main/Coursera_CMZBA9PUDLJ3.pdf). Description: Coursera program about Generative AI with Large Language Models: fundamentals on transformers, pre-training and fine-tuning techniques, PEFT techniques and RLHF.
   * Deep Learning Specialization, 6 months training. In progress. Description: Coursera program to build and train neural network architectures such as Convolutional Neural Networks, Recurrent Neural Networks, LSTMs, Transformers, and learn how to make them better with strategies such as Dropout, BatchNorm, Xavier/He initialization, and more.
@@ -50,3 +42,12 @@ author_profile: true
   * Big & Fast Data, 7h training
   * Hadoop 2.X with Hortonworks & Java, 28h training
 * **[2015]** Elastic Search/Logstash, Kibana, 14h training
+  
+### Non-technical
+* **[2022]** Google Project Management Certificate, 6 months training. [Coursera Certificate](https://github.com/yoanchabot/papers/raw/main/Coursera_SND53FTNS7UW.pdf). Description: Hands-on program that covers traditional and Agile project management approaches throughout the life cycle of a project.
+* **[2021]**
+  * Orange Emerging Talent Development Program, 53h training
+  * How to Manage a Remote Team Certificate, 11h training. [Coursera Certificate](https://github.com/yoanchabot/papers/raw/main/Coursera_RMG4HE6FJHMT.pdf). Description: Build a remote organizational culture and practices. Lead in a remote environment. Create a foundational strategy for executing a remote transformation.
+* **[2019]** 
+  * Intellectual Property issues and best practices for innovation, 6h training
+  * Training to supervise doctoral students, 7h training
