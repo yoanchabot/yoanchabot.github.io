@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## 📕 Journal Articles
-* <a name="arxiv_2024_b"></a>**[ArxiV 2025]** Barboule, Camille, Benjamin Piwowarski, and **Yoan Chabot**. [Survey on Question Answering over Visually Rich Documents: Methods, Challenges, and Trends.](https://arxiv.org/pdf/2501.02235). In ArxiV.
+* <a name="arxiv_2024_b"></a>**[ArxiV 2025]** Camille Barboule, Benjamin Piwowarski, and **Yoan Chabot**. [Survey on Question Answering over Visually Rich Documents: Methods, Challenges, and Trends.](https://arxiv.org/pdf/2501.02235). In ArxiV.
 * <a name="arxiv_2024"></a>**[ArxiV 2024]** Lucas Jarnac, **Yoan Chabot**, Miguel Couceiro. [Uncertainty Management in the Construction of Knowledge Graphs: a Survey](https://arxiv.org/pdf/2405.16929). In ArxiV.
 * <a name="jows_2022"></a>**[Journal of Web Semantics 2023]** Jixiong Liu, **Yoan Chabot**, Raphaël Troncy, Viet-Phi Huynh, Thomas Labbé and Pierre Monnin. [From Tabular Data to Knowledge Graphs: A Survey of Semantic Table Interpretation Tasks and Methods](https://github.com/yoanchabot/papers/raw/main/liu2022b.pdf). In [Journal of Web Semantics](https://www.sciencedirect.com/journal/journal-of-web-semantics), volume 76, 2023.
 * <a name="digital_investigation_2015"></a>**[Digital Investigation 2015]** **Yoan Chabot**, Aurélie Bertaux, Christophe Nicolle and Tahar Kechadi. [An ontology-based approach for the reconstruction and analysis of digital incidents timelines](https://github.com/yoanchabot/papers/raw/main/chabot2015a.pdf). In [Digital Investigation](https://www.sciencedirect.com/journal/digital-investigation), 15, pages 83-100, 2015.
