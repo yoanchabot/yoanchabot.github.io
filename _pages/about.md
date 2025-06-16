@@ -19,12 +19,13 @@ My research focuses on the use of **knowledge engineering** in different applica
 Enjoy your visit!
 
 # 🚀News
+* **[2025-02]** [Holonet Galactic Encyclopedia](https://holonetgalacticmap-frontend.vercel.app/) has been named "Tool of the Week" by Wikidata
 * **[2025-01]** 📄 Three new papers available on ArxiV (see [publications](https://yoanchabot.github.io/publications.html))
 * **[2024-11]** Presentation of Telcograph (Enterprise Knowledge Graphs + Graph RAG) during [OOT2024](https://hellofuture.orange.com/fr/opentech/), [tweet](https://x.com/yoan_chabot/status/1862224022504673423)
 * **[2024-09]** Congrats to Dr Tailhardat for passing his PhD viva! 🎆
 * **[2024-07]** 🥇 Best paper award IC2024
-* **[2024-05]** 📄 New papers accepted GRASEC@ARES2024 ([paper)](https://yoanchabot.github.io/publications.html#grasec_2024) and IC2024 ([paper)](https://yoanchabot.github.io/publications.html#ic_2024)
-* **[2024-05]** 📄 New papers accepted TheWebConf2024 ([paper)](https://yoanchabot.github.io/publications.html#www_2024) and ESWC2024 ([paper)](https://yoanchabot.github.io/publications.html#eswc_2024)
+* **[2024-05]** 📄 New papers accepted GRASEC@ARES2024 ([paper](https://yoanchabot.github.io/publications.html#grasec_2024)) and IC2024 ([paper](https://yoanchabot.github.io/publications.html#ic_2024))
+* **[2024-05]** 📄 New papers accepted TheWebConf2024 ([paper](https://yoanchabot.github.io/publications.html#www_2024)) and ESWC2024 ([paper](https://yoanchabot.github.io/publications.html#eswc_2024))
 * **[2024-04]** Senior program comitee member for ESWC2024
 * **[2024-02]** Supervision of Boumediene Sari for his final year internship
 * **[2024-01]** New musical project: [DiceDice](https://www.youtube.com/@DiceDiceTheBand)! 
