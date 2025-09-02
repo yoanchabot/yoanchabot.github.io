@@ -5,13 +5,13 @@ author_profile: true
 ---
 
 ## 👩‍🎓👨‍🎓 Students (current)
-* **[2024]** Co-supervision (main supervisor: [Lucas Jarnac](https://scholar.google.com/citations?user=O24FhxkAAAAJ&hl=fr)) of Carmelle Meli Songuon for his final year internship at [INP-ENSIMAG](https://ensimag.grenoble-inp.fr/), "Développement d'outils d'extraction textuels pour l'enrichssement de graphes de connaissances"
 * **[2023- ]** Thesis co-director of [Lucas Jarnac](https://scholar.google.com/citations?user=O24FhxkAAAAJ&hl=fr) for his PhD co-supervised with [Miguel Couceiro](https://members.loria.fr/mcouceiro/) ([LORIA](https://www.loria.fr/en/)), "Reconciling uncertain knowledge to improve knowledge graphs"
 * **[2024- ]** Apprenticeship supervisor of Léna Abel at [UTBM](https://www.utbm.fr/), "Développement d’outils de construction de graphes de connaissances d’entreprise". Co-supervision with Frédéric Deuzé.
 * **[2023- ]** Member of the supervisory committee of [Duo Yang](https://www.kuleuven.be/wieiswie/en/person/00162181) for his PhD on Automated Knowledge Graph construction at KU Leuven
 * **[2024- ]** Member of the supervisory committee of [Jean Meunier-Pion](https://www.jmpion.com/) for his PhD on Failure-awareness learning for the design of resilient infrastructures using natural language processing at Université Paris-Saclay
 
 ## 👩‍🎓👨‍🎓 Students (past)
+* **[2024]** Co-supervision (main supervisor: [Lucas Jarnac](https://scholar.google.com/citations?user=O24FhxkAAAAJ&hl=fr)) of Carmelle Meli Songuon for his final year internship at [INP-ENSIMAG](https://ensimag.grenoble-inp.fr/), "Développement d'outils d'extraction textuels pour l'enrichssement de graphes de connaissances"
 * **[2020-2024]** Thesis co-director of [Lionel Tailhardat](https://genears.github.io/) for his PhD co-supervised with [Raphaël Troncy](https://www.eurecom.fr/~troncy/) ([EURECOM](http://www.eurecom.fr)), "Synergy between knowledge graphs and machine learning for the detection of anomalies"
   Here are the four main contributions of his PhD in few words + links:
    * A first key contribution is the NORIA-O ontology to model an ICT infrastructure, network topology, logs, events and alarms raised by equipment and operators, procedures to remedy to anomalies. [Paper](https://link.springer.com/chapter/10.1007/978-3-031-60635-9_2), [Code](https://github.com/Orange-OpenSource/noria-ontology)
