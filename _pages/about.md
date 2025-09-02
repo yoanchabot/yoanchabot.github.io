@@ -19,7 +19,7 @@ My research focuses on the use of **knowledge engineering** in different applica
 Enjoy your visit!
 
 # 🚀News
-* **[2025-06]** SOTA paper accepted in TGDK ([paper](https://yoanchabot.github.io/publications.html#tgdk_2024))
+* **[2025-06]** 📄 SOTA paper accepted in TGDK ([paper](https://yoanchabot.github.io/publications.html#tgdk_2024))
 * **[2025-02]** [Holonet Galactic Encyclopedia](https://holonetgalacticmap-frontend.vercel.app/) has been named "Tool of the Week" by Wikidata
 * **[2025-01]** 📄 Three new papers available on ArxiV (see [publications](https://yoanchabot.github.io/publications.html))
 * **[2024-11]** Presentation of Telcograph (Enterprise Knowledge Graphs + Graph RAG) during [OOT2024](https://hellofuture.orange.com/fr/opentech/), [tweet](https://x.com/yoan_chabot/status/1862224022504673423)
