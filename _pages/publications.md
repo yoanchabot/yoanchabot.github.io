@@ -34,9 +34,13 @@ author_profile: true
 * <a name="eisic_2014"></a>**[EISIC 2014]** **Yoan Chabot**, Aurélie Bertaux, Christophe Nicolle and Tahar Kechadi. [Automatic timeline construction and analysis for computer forensics purposes](https://github.com/yoanchabot/papers/raw/main/chabot2014b.pdf). In [1st IEEE Joint Intelligence and Security Informatics Conference (IEEE JISIC'14)](http://www.eisic.eu/eisic2014/), The Hague, Netherlands, September 24-26, 2014.
 
 ## 💡 Patents
-* Targeted knowledge graph enrichment using generative AI, 2024
+* Targeted triplet extraction from text documents using generative AI, 2025
 * Verbalization of tabular data through semantic table annotation and LLM prompting, 2024
 * Question-and-answer system using generative AI based on a knowledge graph with a collaborative exploration interface, 2024
+* Targeted knowledge graph enrichment using generative AI, 2024
+* System and process to upload a document on a device depending of the informations not yet consulted, 2024
+* System and process to determine the subjects of a document, 2024
+* System and process to create a new document by aggregation of parts of documents, each treating a part of a subject, 2024
 
 ## 🏆 Challenges 
 * <a name="iswc_2022_c"></a>**[ISWC 2022]** [1st prize (Accuracy Track)](https://github.com/yoanchabot/papers/raw/main/dagobah-certificate-2022.pdf) in [Semantic Web Challenge on Tabular Data to Knowledge Graph Matching 2022](https://sem-tab-challenge.github.io/2022/), [21th International Semantic Web Conference (ISWC'22)](https://iswc2022.semanticweb.org/), remote, China, October 23-27, 2022.
