@@ -15,7 +15,9 @@ You can find my work (with a colleague) on our Youtube channel:
 
 A view or a like helps us to make ourselves known. Thank you!
 
-![DiceDice]({{ site.baseurl }}/images/dicedice.jpg)
+<a href="https://www.youtube.com/channel/UCnTRHAUZXai874DlatpvQRw">
+  <img src="{{ site.baseurl }}/images/dicedice.jpg" alt="DiceDice">
+</a>
 
 I am also in a rock band named "404 Not Found" in which I play the guitar.
 [Follow us on Instagram](https://www.instagram.com/404_not_found_band/)
