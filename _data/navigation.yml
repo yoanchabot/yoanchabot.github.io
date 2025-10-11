@@ -14,7 +14,13 @@ main:
   - title: "Training and Skills"
     url: training.html
         
-  - title: "Hobbies"
+  - title: "Side Projects"
+    url: side.html
+
+  - title: "Community & Causes"
+    url: community.html
+
+  - title: "Rock, Read, Run"
     url: hobbies.html
 
   - title: "CV"
