@@ -9,8 +9,10 @@ author_profile: true
 
 I started to play the guitar in high-school and bass guitar recently.
 I spend quite a lot of time on Ableton creating instrumental music. 
+
 You can find my work (with a colleague) on our Youtube channel: 
 [Dice Dice Youtube Channel](https://www.youtube.com/@DiceDiceTheBand)
+
 A view or a like helps us to make ourselves known. Thank you!
 
 I am also in a rock band named "404 Not Found" in which I play the guitar.
