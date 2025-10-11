@@ -15,10 +15,10 @@ You can find my work (with a colleague) on our Youtube channel:
 
 A view or a like helps us to make ourselves known. Thank you!
 
+![DiceDice]({{ site.baseurl }}/images/dicedice.jpg)
+
 I am also in a rock band named "404 Not Found" in which I play the guitar.
 [Follow us on Instagram](https://www.instagram.com/404_not_found_band/)
-
-![Logo404]({{ site.baseurl }}/images/404_logo.jpg)
 
 ## Reading
 Some great books I love and recommend (for SF and heroic fantasy lovers):
