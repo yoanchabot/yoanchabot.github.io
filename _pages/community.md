@@ -33,7 +33,7 @@ Si vous connaissez des articles, des associations ou des outils qui ont marqué 
 * Un excellent site contenant des centaines de planches de signes permettant d'enrichir rapidement son vocabulaire ([accéder au site](https://commentcasesigne.fr/)).
 * Signes&Vous, une des meilleurs chaînes Youtube pour apprendre la LSF de 0 ([accéder à la chaîne Youtube](https://www.youtube.com/@signesvous2211)).
 * Le livre "Le grand guide des signes avec bébé" de Emmanuelle Pioli et Marie Cao pour apprendre les signes essentiels pour communiquer avec votre bébé ([accéder sur la FNAC](https://www.fnac.com/a13880823/Marie-Cao-Le-grand-guide-des-signes-avec-bebe)).
-* Des chaînes Youtube qu'on m'a recommandé mais que je n'ai pas eu le temps d'explorer : Aymeline LSF ([accéder à la chaîne Youtube](https://www.youtube.com/@aymelinelsf)), MélanieDeaf ([accéder à la chaîne Youtube](https://www.youtube.com/c/M%C3%A9lanieDeafLSF)), Sophie Vouzelaud ([accéder à la chaîne Youtube](https://www.youtube.com/playlist?list=PLhmBCf_jOR4dkf0pTSaTP84HlQTc4aU-s))
+* Des chaînes Youtube qu'on m'a recommandées mais que je n'ai pas eu le temps d'explorer pour le moment : Aymeline LSF ([accéder à la chaîne Youtube](https://www.youtube.com/@aymelinelsf)), MélanieDeaf ([accéder à la chaîne Youtube](https://www.youtube.com/c/M%C3%A9lanieDeafLSF)), Sophie Vouzelaud ([accéder à la chaîne Youtube](https://www.youtube.com/playlist?list=PLhmBCf_jOR4dkf0pTSaTP84HlQTc4aU-s)).
   
 ### Se former à la Langue française Parlée Complétée (LFPC)
 * Le site de l'Association nationale pour la Langue française Parlée Complétée ([accéder au site](https://alpc.asso.fr/conseils-aux-parents/)).
