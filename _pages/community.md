@@ -17,22 +17,23 @@ Si vous connaissez des articles, des associations ou des outils qui ont marqué 
 * Tremplin est une association de parents d'enfants porteurs de SPR. On y trouve des informations, du soutien si besoin et également la possibilité de demander un petit kit de naissance ([accéder au formulaire de demande](https://www.tremplin-spr.org/les-ressources/le-kit-de-naissance/)).
 * Si vous souhaitez comprendre en profondeur le SPR et tous les aspects médicaux qui gravitent autour afin de mieux appréhender les rendez-vous avec les spécialistes, je recommande de regarder la série de vidéo "Robin Learning" ([accéder à la série de vidéos sur Youtube](https://www.youtube.com/watch?v=qrOODJWesAQ&list=PLRK9nnjEyIEetRbDoGeKjtv2IbIg4MKGL)). La série contient des conférences sur le diagnostic prénatal, la ventilation, l'alimentation, les problèmes ORLs, des témoignages de parents... 
 
-### Surdité
-* https://www.fondation-voltaire.fr/
-* https://surdites-info-service.fr/
-* https://implantcochleaire.blogspot.com/2019/03/avt-auditory-verbal-therapy-ou-therapie.html
-* https://www.acfos.org/wp-content/uploads/comprendre/jeminterroge/collette.pdf
-* https://dumas.ccsd.cnrs.fr/dumas-00728787v1/file/ORTH_2012_Tardy.pdf
-* https://pro.docorga.com/blog/actualites/top-jeux-exercices-gratuits-reeducation-a-la-maison/
+### Comprendre la surdité
+* La fondation Voltaire oeuvre pour la maitrise du français par tous. Elle promeut notamment la langue des signes française via une formation accessible pour tous ([accéder au site](https://www.fondation-voltaire.fr/)). 
+* Vous trouverez des informations et des références bibliographiques sur le site Surdités Info Service ([accéder au site](https://surdites-info-service.fr/)).
+* Un blog très riche proposé par des parents d'un enfant sourd ([accéder au blog](https://implantcochleaire.blogspot.com/)).
+* Papier "Pour une entrée en communication de l'enfant source" ([accéder au papier](https://www.acfos.org/wp-content/uploads/comprendre/jeminterroge/collette.pdf)).
+* Un mémoire d'étudiant ortphononiste proposant des définitions et des éléments sur la prise en charge des enfants source ([accéder au mémoire](https://dumas.ccsd.cnrs.fr/dumas-00728787v1/file/ORTH_2012_Tardy.pdf)).
+* Un portail contenant des liens vers des jeux pour la rééducation orthophonique ([accéder au portail](https://pro.docorga.com/blog/actualites/top-jeux-exercices-gratuits-reeducation-a-la-maison/)).
 
+### Se former à la Langue des Signes Française (LSF)
+* https://commentcasesigne.fr/
+  
 ### LFPC
 * https://alpc.asso.fr/conseils-aux-parents/
 * https://www.fondationpourlaudition.org/la-langue-francaise-parlee-completee-573
 
 ### Quelques références de livres pour aider son enfant à communiquer
   
-### Se former à la Langue des signes
-* https://commentcasesigne.fr/
 
 ## Firefighter
 ![Firefighter]({{ site.baseurl }}/images/firefighter.jpg "Firefighter")
