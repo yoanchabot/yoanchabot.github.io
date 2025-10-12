@@ -5,19 +5,34 @@ author_profile: true
 ---
 
 ## Séquence de Pierre Robin et Surdité
+I switch to French for this section to share a few francophone resources on SPR syndrome and deafness.
 En tant que parent confronté à la séquence de Pierre Robin et à la surdité, j’ai rassemblé au fil du temps beaucoup de ressources pour m'informer et des ressources pratiques pour mieux accompagner mon enfant. J’ai souhaité créer cette espace sur mon site personnel pour centraliser et partager les ressources qui m’ont été utiles, dans l’espoir qu’elles puissent aussi vous aider!
 Cette liste est le fruit de mes recherches et de mes rencontres avec des professionnels de santé. Elle est destinée à évoluer dans le temps et vous pouvez aussi contribuer !
 Si vous connaissez des articles, des associations ou des outils qui ont marqué votre parcours et qui ne figurent pas encore ici, n’hésitez pas à me les suggérer. Ensemble, nous pouvons enrichir cette base pour en faire une référence utile à tous les parents concernés :-) 
 
 ### S'informer sur la séquence de Pierre Robin 
-* Une vidéo courte pouvant servir d'introduction au sujet https://www.youtube.com/watch?v=pBCDE-ItVlU
-* https://www.chu-nantes.fr/mon-enfant-est-porteur-de-la-sequence-de-pierre-robin
+* Une vidéo courte de 8min de l'émission "Allo Docteurs" pouvant servir d'introduction au sujet : [accéder à la vidéo Youtube](https://www.youtube.com/watch?v=pBCDE-ItVlU)
+* Il existe plusieurs livrets en ligne expliquant ce qu'est la SPR, ses implications et donnant des informations pour permettre aux parents de préparer au mieux les premiers mois. J'ai trouvé ceux de la filiète Tête-Cou ([accéder au livre](https://www.tete-cou.fr/medias/fichiers/fichier_livret_mon_enfant_a_un_pierre_robin.pdf) et du CHU de Nantes ([accéder au livret](https://www.chu-nantes.fr/mon-enfant-est-porteur-de-la-sequence-de-pierre-robin) extrêment riche et clair. 
 * https://www.tete-cou.fr/
 * https://www.tremplin-spr.org/les-ressources/le-kit-de-naissance/
 * https://www.youtube.com/watch?v=qrOODJWesAQ&list=PLRK9nnjEyIEetRbDoGeKjtv2IbIg4MKGL
 
+### Surdité
+* https://www.fondation-voltaire.fr/
+* https://surdites-info-service.fr/
+* https://implantcochleaire.blogspot.com/2019/03/avt-auditory-verbal-therapy-ou-therapie.html
+* https://www.acfos.org/wp-content/uploads/comprendre/jeminterroge/collette.pdf
+* https://dumas.ccsd.cnrs.fr/dumas-00728787v1/file/ORTH_2012_Tardy.pdf
+* https://pro.docorga.com/blog/actualites/top-jeux-exercices-gratuits-reeducation-a-la-maison/
+
+### LFPC
+* https://alpc.asso.fr/conseils-aux-parents/
+* https://www.fondationpourlaudition.org/la-langue-francaise-parlee-completee-573
+
+### Quelques références de livres pour aider son enfant à communiquer
+  
 ### Se former à la Langue des signes
-* TBD
+* https://commentcasesigne.fr/
 
 ## Firefighter
 ![Firefighter]({{ site.baseurl }}/images/firefighter.jpg "Firefighter")
