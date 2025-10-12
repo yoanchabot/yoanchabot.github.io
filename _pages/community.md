@@ -4,7 +4,7 @@ title: "Community & Causes"
 author_profile: true
 ---
 
-My small way of making a difference. From sharing knowledge to supporting local initiatives, I’m committed to giving back—quietly and consistently.
+My small way of making a difference. From sharing knowledge to supporting local initiatives, I’m committed to giving back, quietly and consistently.
 
 ## Séquence de Pierre Robin et Surdité
 I switch to French for this section to share a few francophone resources on SPR syndrome and deafness.
