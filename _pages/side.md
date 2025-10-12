@@ -4,7 +4,7 @@ title: "Side Projects"
 author_profile: true
 ---
 
-When I’m not working, I’m coding—experimenting with AI, mapping knowledge graphs, and building things that might (or might not) change the world
+When I’m not working, I’m coding-experimenting with AI, mapping knowledge graphs, and building things that might (or might not) change the world
 
 ## Wikimedia
 I have a strong interest in contributing to Wikimedia projects, with a particular focus on Wikidata. As an active contributor under the username [Metafire18](https://www.wikidata.org/wiki/User:Metafire18), I work on enhancing the quality and scope of the knowledge graph by adding structured data to a variety of topics. 
