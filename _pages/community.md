@@ -12,7 +12,7 @@ J’ai souhaité créer cette espace sur mon site personnel pour centraliser et 
 Cette liste est le fruit de mes recherches et de mes rencontres avec des professionnels de santé. Elle est destinée à évoluer dans le temps et vous pouvez aussi contribuer !
 Si vous connaissez des articles, des associations ou des outils qui ont marqué votre parcours et qui ne figurent pas encore ici, n’hésitez pas à me les suggérer. Ensemble, nous pouvons enrichir cette base pour en faire une référence utile à tous les parents concernés :-) 
 
-#### S'informer sur la Séquence de Pierre Robin (SPR)
+##### S'informer sur la Séquence de Pierre Robin (SPR)
 * Une vidéo courte de 8min de l'émission "Allo Docteurs" pouvant servir d'introduction au sujet : [accéder à la vidéo Youtube](https://www.youtube.com/watch?v=pBCDE-ItVlU).
 * Il existe plusieurs livrets en ligne expliquant ce qu'est la SPR, ses implications et donnant des informations pour permettre aux parents de préparer au mieux les premiers mois. J'ai trouvé ceux de la filière Tête-Cou ([accéder au livret](https://www.tete-cou.fr/medias/fichiers/fichier_livret_mon_enfant_a_un_pierre_robin.pdf)) et du CHU de Nantes ([accéder au livret](https://www.chu-nantes.fr/mon-enfant-est-porteur-de-la-sequence-de-pierre-robin)) extrêmement riche et clair. 
 * Le site de la filière Tête-Cou est riche en informations et en contact ([accéder au site](https://www.tete-cou.fr/)). On y trouve notamment un lien vers le site du "centre de référence" SPRATON spécialisé dans la SPR ([accéder au site](https://www.tete-cou.fr/spraton/accueil)).
