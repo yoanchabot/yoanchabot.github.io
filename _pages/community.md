@@ -19,7 +19,7 @@ Si vous connaissez des articles, des associations ou des outils qui ont marqué 
 * Tremplin est une association de parents d'enfants porteurs de SPR. On y trouve des informations, du soutien si besoin et également la possibilité de demander un petit kit de naissance ([accéder au formulaire de demande](https://www.tremplin-spr.org/les-ressources/le-kit-de-naissance/)).
 * Si vous souhaitez comprendre en profondeur le SPR et tous les aspects médicaux qui gravitent autour afin de mieux appréhender les rendez-vous avec les spécialistes notamment, je recommande de regarder la série de vidéo "Robin Learning" ([accéder à la série de vidéos sur Youtube](https://www.youtube.com/watch?v=qrOODJWesAQ&list=PLRK9nnjEyIEetRbDoGeKjtv2IbIg4MKGL)). La série contient des conférences sur le diagnostic prénatal, la ventilation, l'alimentation, les problèmes ORLs, des témoignages de parents... 
 
-### Comprendre la surdité
+##### Comprendre la surdité
 * La fondation Voltaire oeuvre pour la maitrise du français par tous. Elle promeut notamment la langue des signes française via une formation accessible pour tous ([accéder au site](https://www.fondation-voltaire.fr/)). 
 * Vous trouverez des informations et des références bibliographiques sur le site Surdités Info Service ([accéder au site](https://surdites-info-service.fr/)).
 * Un blog très riche proposé par des parents d'un enfant sourd ([accéder au blog](https://implantcochleaire.blogspot.com/)).
@@ -28,18 +28,18 @@ Si vous connaissez des articles, des associations ou des outils qui ont marqué 
 * Un portail contenant des liens vers des jeux pour la rééducation orthophonique ([accéder au portail](https://pro.docorga.com/blog/actualites/top-jeux-exercices-gratuits-reeducation-a-la-maison/)).
 * "100 idées pour aider un enfant sourd à communiquer en français" de Françoise Cattoni-Larroche et Brigitte Maunoury-Loisel, un livre traitant de nombreux sujets pratiques liés à la surdité ([accéder sur la FNAC](https://www.fnac.com/a7160905/Cattoni-Lar-100-idees-pour-aider-un-enfant-sourd-a-communiquer-en-francais)).
 
-### Se former à la Langue des Signes Française (LSF)
+##### Se former à la Langue des Signes Française (LSF)
 * Formation accessible sur le site de la Fondation Voltaire ([accéder à la formation](https://lsf.fondation-voltaire.fr/landing)).
 * Un excellent site contenant des centaines de planches de signes permettant d'enrichir rapidement son vocabulaire ([accéder au site](https://commentcasesigne.fr/)).
 * Signes&Vous, une des meilleurs chaînes Youtube pour apprendre la LSF de 0 ([accéder à la chaîne Youtube](https://www.youtube.com/@signesvous2211)).
 * Le livre "Le grand guide des signes avec bébé" de Emmanuelle Pioli et Marie Cao pour apprendre les signes essentiels pour communiquer avec votre bébé ([accéder sur la FNAC](https://www.fnac.com/a13880823/Marie-Cao-Le-grand-guide-des-signes-avec-bebe)).
 * Des chaînes Youtube qu'on m'a recommandées mais que je n'ai pas eu le temps d'explorer pour le moment : Aymeline LSF ([accéder à la chaîne Youtube](https://www.youtube.com/@aymelinelsf)), MélanieDeaf ([accéder à la chaîne Youtube](https://www.youtube.com/c/M%C3%A9lanieDeafLSF)), Sophie Vouzelaud ([accéder à la chaîne Youtube](https://www.youtube.com/playlist?list=PLhmBCf_jOR4dkf0pTSaTP84HlQTc4aU-s)).
   
-### Se former à la Langue française Parlée Complétée (LFPC)
+##### Se former à la Langue française Parlée Complétée (LFPC)
 * Le site de l'Association nationale pour la Langue française Parlée Complétée ([accéder au site](https://alpc.asso.fr/conseils-aux-parents/)).
 * Un petit article rapide avec une infographie des signes sur le site de la Fondation pour l'audition ([accéder au site](https://www.fondationpourlaudition.org/la-langue-francaise-parlee-completee-573)).
 
-### Quelques références de livres 
+##### Quelques références de livres 
 Pour aider son enfant à communiquer, voici quelques références recommandées par des professionnels que nous allons tester dans les prochains mois.
 * Mon imagier sonore - La nature et moi ([accéder sur la FNAC](https://www.fnac.com/a16047422/Lucie-Brunelliere-Mon-imagier-sonore-La-nature-et-moi)).
 * Mon grand imagier des sons - Mes petits imagiers sonores ([accéder sur la FNAC](https://www.fnac.com/a18264606/Marion-Billet-Mon-grand-imagier-des-sons)).
