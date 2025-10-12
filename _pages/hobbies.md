@@ -4,7 +4,7 @@ title: "Hobbies"
 author_profile: true
 ---
 
-When I'm not in the lab, you'll find me strumming my guitar, immersed in a book or out running: these are the rhythms that keep me inspired and balanced.
+When I'm not in the lab, you'll find me strumming my guitar, immersed in a book or out running: three rhythms that keep my mind sharp and my spirit alive.
 
 ## Music
 ![Music]({{ site.baseurl }}/images/music.jpg "Music")
