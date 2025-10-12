@@ -33,13 +33,20 @@ Si vous connaissez des articles, des associations ou des outils qui ont marqué 
 * Le livre "Le grand guide des signes avec bébé" de Emmanuelle Pioli et Marie Cao pour apprendre les signes essentiels pour communiquer avec votre bébé ([accéder sur la FNAC](https://www.fnac.com/a13880823/Marie-Cao-Le-grand-guide-des-signes-avec-bebe)).
 * Des chaînes Youtube qu'on m'a recommandé mais que je n'ai pas eu le temps d'explorer : Aymeline LSF ([accéder à la chaîne Youtube](https://www.youtube.com/@aymelinelsf)), MélanieDeaf ([accéder à la chaîne Youtube](https://www.youtube.com/c/M%C3%A9lanieDeafLSF)), Sophie Vouzelaud ([accéder à la chaîne Youtube](https://www.youtube.com/playlist?list=PLhmBCf_jOR4dkf0pTSaTP84HlQTc4aU-s))
   
-### LFPC
-* https://alpc.asso.fr/conseils-aux-parents/
-* https://www.fondationpourlaudition.org/la-langue-francaise-parlee-completee-573
+### Se former à la Langue française Parlée Complétée (LFPC)
+* Le site de l'Association nationale pour la Langue française Parlée Complétée ([accéder au site](https://alpc.asso.fr/conseils-aux-parents/)).
+* Un petit article rapide avec une infographie des signes sur le site de la Fondation pour l'audition ([accéder au site](https://www.fondationpourlaudition.org/la-langue-francaise-parlee-completee-573)).
 
-### Quelques références de livres pour aider son enfant à communiquer
+### Quelques références de livres 
+Pour aider son enfant à communiquer, voici quelques références recommandées par des professionnels que nous allons tester dans les prochains mois.
+* Mon imagier sonore - La nature et moi ([accéder sur la FNAC](https://www.fnac.com/a16047422/Lucie-Brunelliere-Mon-imagier-sonore-La-nature-et-moi)).
+* Mon grand imagier des sons - Mes petits imagiers sonores ([accéder sur la FNAC](https://www.fnac.com/a18264606/Marion-Billet-Mon-grand-imagier-des-sons)).
+* Chut ! dans la ferme ([accéder sur la FNAC](https://www.fnac.com/a16425369/Sophie-Lemarie-Chut)).
+* Mes comptines. Vol 1 - Mes petits imagiers sonores ([accéder sur la FNAC](https://www.fnac.com/a6975376/Elsa-Fouquier-Mes-comptines)).
+* Mes comptines. Vol 2 - Mes petits imagiers sonores ([accéder sur la FNAC](https://www.fnac.com/a16080181/Elsa-Fouquier-Mes-comptines)).
+* Mon imagier signé: 280 mots du quotidien à découvrir ([accéder sur la FNAC](https://www.fnac.com/a18777140/Marie-Cao-Mon-imagier-a-signer)).
+
   
-
 ## Firefighter
 ![Firefighter]({{ site.baseurl }}/images/firefighter.jpg "Firefighter")
 
