@@ -23,10 +23,10 @@ Si vous connaissez des articles, des associations ou des outils qui ont marqué 
 * La fondation Voltaire oeuvre pour la maitrise du français par tous. Elle promeut notamment la langue des signes française via une formation accessible pour tous ([accéder au site](https://www.fondation-voltaire.fr/)). 
 * Vous trouverez des informations et des références bibliographiques sur le site Surdités Info Service ([accéder au site](https://surdites-info-service.fr/)).
 * Un blog très riche proposé par des parents d'un enfant sourd ([accéder au blog](https://implantcochleaire.blogspot.com/)).
+* Un mémoire d'étudiant ortphononiste proposant des définitions et des éléments sur la prise en charge des enfants sourds ([accéder au mémoire](https://dumas.ccsd.cnrs.fr/dumas-00728787v1/file/ORTH_2012_Tardy.pdf)).
 * Papier "Pour une entrée en communication de l'enfant source" ([accéder au papier](https://www.acfos.org/wp-content/uploads/comprendre/jeminterroge/collette.pdf)).
-* Un mémoire d'étudiant ortphononiste proposant des définitions et des éléments sur la prise en charge des enfants source ([accéder au mémoire](https://dumas.ccsd.cnrs.fr/dumas-00728787v1/file/ORTH_2012_Tardy.pdf)).
 * Un portail contenant des liens vers des jeux pour la rééducation orthophonique ([accéder au portail](https://pro.docorga.com/blog/actualites/top-jeux-exercices-gratuits-reeducation-a-la-maison/)).
-* "100 idées pour aider un enfant sourd à communiquer en français" de Françoise Cattoni-Larroche et Brigitte Maunoury-Loisel un livre traitant de nombreux sujets pratiques liés à la surdité ([accéder sur la FNAC](https://www.fnac.com/a7160905/Cattoni-Lar-100-idees-pour-aider-un-enfant-sourd-a-communiquer-en-francais)).
+* "100 idées pour aider un enfant sourd à communiquer en français" de Françoise Cattoni-Larroche et Brigitte Maunoury-Loisel, un livre traitant de nombreux sujets pratiques liés à la surdité ([accéder sur la FNAC](https://www.fnac.com/a7160905/Cattoni-Lar-100-idees-pour-aider-un-enfant-sourd-a-communiquer-en-francais)).
 
 ### Se former à la Langue des Signes Française (LSF)
 * Formation accessible sur le site de la Fondation Voltaire ([accéder à la formation](https://lsf.fondation-voltaire.fr/landing)).
