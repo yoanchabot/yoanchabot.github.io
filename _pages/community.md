@@ -6,7 +6,9 @@ author_profile: true
 
 ## Séquence de Pierre Robin et Surdité
 I switch to French for this section to share a few francophone resources on SPR syndrome and deafness.
-En tant que parent confronté à la séquence de Pierre Robin et à la surdité, j’ai rassemblé au fil du temps beaucoup d'articles pour m'informer et des ressources pratiques pour mieux accompagner mon enfant. J’ai souhaité créer cette espace sur mon site personnel pour centraliser et partager les ressources qui m’ont été utiles, dans l’espoir qu’elles puissent aussi vous aider!
+En tant que parent confronté à la séquence de Pierre Robin et à la surdité, j’ai rassemblé au fil du temps beaucoup d'articles pour m'informer et des ressources pratiques pour mieux accompagner mon enfant. 
+
+J’ai souhaité créer cette espace sur mon site personnel pour centraliser et partager les ressources qui m’ont été utiles, dans l’espoir qu’elles puissent aussi vous aider!
 Cette liste est le fruit de mes recherches et de mes rencontres avec des professionnels de santé. Elle est destinée à évoluer dans le temps et vous pouvez aussi contribuer !
 Si vous connaissez des articles, des associations ou des outils qui ont marqué votre parcours et qui ne figurent pas encore ici, n’hésitez pas à me les suggérer. Ensemble, nous pouvons enrichir cette base pour en faire une référence utile à tous les parents concernés :-) 
 
