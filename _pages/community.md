@@ -24,9 +24,14 @@ Si vous connaissez des articles, des associations ou des outils qui ont marqué 
 * Papier "Pour une entrée en communication de l'enfant source" ([accéder au papier](https://www.acfos.org/wp-content/uploads/comprendre/jeminterroge/collette.pdf)).
 * Un mémoire d'étudiant ortphononiste proposant des définitions et des éléments sur la prise en charge des enfants source ([accéder au mémoire](https://dumas.ccsd.cnrs.fr/dumas-00728787v1/file/ORTH_2012_Tardy.pdf)).
 * Un portail contenant des liens vers des jeux pour la rééducation orthophonique ([accéder au portail](https://pro.docorga.com/blog/actualites/top-jeux-exercices-gratuits-reeducation-a-la-maison/)).
+* "100 idées pour aider un enfant sourd à communiquer en français" de Françoise Cattoni-Larroche et Brigitte Maunoury-Loisel un livre traitant de nombreux sujets pratiques liés à la surdité ([accéder sur la FNAC](https://www.fnac.com/a7160905/Cattoni-Lar-100-idees-pour-aider-un-enfant-sourd-a-communiquer-en-francais)).
 
 ### Se former à la Langue des Signes Française (LSF)
-* https://commentcasesigne.fr/
+* Formation accessible sur le site de la Fondation Voltaire ([accéder à la formation](https://lsf.fondation-voltaire.fr/landing)).
+* Un excellent site contenant des centaines de planches de signes permettant d'enrichir rapidement son vocabulaire ([accéder au site](https://commentcasesigne.fr/)).
+* Signes&Vous, une des meilleurs chaînes Youtube pour apprendre la LSF de 0 ([accéder à la chaîne Youtube](https://www.youtube.com/@signesvous2211)).
+* Le livre "Le grand guide des signes avec bébé" de Emmanuelle Pioli et Marie Cao pour apprendre les signes essentiels pour communiquer avec votre bébé ([accéder sur la FNAC](https://www.fnac.com/a13880823/Marie-Cao-Le-grand-guide-des-signes-avec-bebe)).
+* Des chaînes Youtube qu'on m'a recommandé mais que je n'ai pas eu le temps d'explorer : Aymeline LSF ([accéder à la chaîne Youtube](https://www.youtube.com/@aymelinelsf)), MélanieDeaf ([accéder à la chaîne Youtube](https://www.youtube.com/c/M%C3%A9lanieDeafLSF)), Sophie Vouzelaud ([accéder à la chaîne Youtube](https://www.youtube.com/playlist?list=PLhmBCf_jOR4dkf0pTSaTP84HlQTc4aU-s))
   
 ### LFPC
 * https://alpc.asso.fr/conseils-aux-parents/
