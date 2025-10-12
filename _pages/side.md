@@ -4,6 +4,8 @@ title: "Side Projects"
 author_profile: true
 ---
 
+Here is an overview of the projects I work on in my spare time, mainly focusing on knowledge graphs and AI tools.
+
 ## Wikimedia
 I have a strong interest in contributing to Wikimedia projects, with a particular focus on Wikidata. As an active contributor under the username [Metafire18](https://www.wikidata.org/wiki/User:Metafire18), I work on enhancing the quality and scope of the knowledge graph by adding structured data to a variety of topics. 
 
