@@ -31,7 +31,7 @@ author_profile: true
 * <a name="egc_2015"></a>**[EGC 2015]** **Yoan Chabot**, Aurélie Bertaux, Christophe Nicolle and Tahar Kechadi. [De la scène de crime aux connaissances: représentation d’évènements et peuplement d’ontologie appliqués au domaine de la criminalistique informatique](https://github.com/yoanchabot/papers/raw/main/chabot2015c.pdf). In 12 ème atelier sur la Fouille de Données Complexes, In [15th Conférence Francophone sur l'Extraction et la Gestion des Connaissances (EGC'15)](https://www.egc.asso.fr/publications/actes-egc/actes-conference-egc-2015.html), Luxembourg, Luxembourg, January 27-30, 2015.
 * <a name="eisic_2014"></a>**[EISIC 2014]** **Yoan Chabot**, Aurélie Bertaux, Christophe Nicolle and Tahar Kechadi. [Automatic timeline construction and analysis for computer forensics purposes](https://github.com/yoanchabot/papers/raw/main/chabot2014b.pdf). In [1st IEEE Joint Intelligence and Security Informatics Conference (IEEE JISIC'14)](http://www.eisic.eu/eisic2014/), The Hague, Netherlands, September 24-26, 2014.
 
-## 📗 Technical Reports and Arxiv Papers
+## 📙 Technical Reports and Arxiv Papers
 * <a name="arxiv_2024_b"></a>**[ArxiV 2025]** Camille Barboule, Benjamin Piwowarski, and **Yoan Chabot**. [Survey on Question Answering over Visually Rich Documents: Methods, Challenges, and Trends.](https://arxiv.org/pdf/2501.02235). In ArxiV.
 * <a name="arxiv_2024"></a>**[ArxiV 2024]** Camille Barboule, Viet-Phi Huynh, Adrien Bufort, **Yoan Chabot**, Géraldine Damnati, Gwénolé Lecorvé. [TelcoLM: collecting data, adapting, and benchmarking language models for the telecommunication domain](https://arxiv.org/abs/2412.15891). In ArxiV.
 
