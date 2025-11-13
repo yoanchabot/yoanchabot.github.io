@@ -24,8 +24,10 @@ author_profile: true
 
 ## Training & Certifications
 ### Technical
+* **[2025]**
+  * Programming in Python by Meta, 5 weeks training. [Certificate](https://github.com/yoanchabot/papers/raw/main/Coursera LHIP024B28HC.pdf). Description: Deep dive into the Python ecosystem and popular modules, libraries and tools for Python.
 * **[2024]**
-  * Docker, create and manage virtual application containers, 21 training. [Certificate](https://github.com/yoanchabot/papers/raw/main/docker_certificate.pdf). Description: understand the principles and positioning of Docker and containers, know how to install Docker in various system contexts, know how to implement it to quickly deploy applications using containers + Docker Compose, and Swarm.
+  * Docker, create and manage virtual application containers, 21h training. [Certificate](https://github.com/yoanchabot/papers/raw/main/docker_certificate.pdf). Description: understand the principles and positioning of Docker and containers, know how to install Docker in various system contexts, know how to implement it to quickly deploy applications using containers + Docker Compose, and Swarm.
   * Introduction to Generative AI Learning Path, 1 month training. [Coursera Certificate](https://github.com/yoanchabot/papers/raw/main/Coursera_UBEF4JKFO2IK.pdf). Description: This specialization explores the foundations of large language models (LLMs), their diverse applications, and the ethical considerations crucial for responsible AI development and deployment.
 * **[2023]**
   * Generative AI with Large Language Models, 3 weeks training. [Coursera Certificate](https://github.com/yoanchabot/papers/raw/main/Coursera_CMZBA9PUDLJ3.pdf). Description: Coursera program about Generative AI with Large Language Models: fundamentals on transformers, pre-training and fine-tuning techniques, PEFT techniques and RLHF.
