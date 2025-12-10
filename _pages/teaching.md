@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## 👩‍🎓👨‍🎓 Students (current)
-* **[2026- ]** Thesis co-director of [Jing Li](https://www.linkedin.com/in/jing-li-b80205294) for her PhD co-supervised with [Raphaël Troncy](https://www.eurecom.fr/~troncy/) ([EURECOM](http://www.eurecom.fr)), "Design of an ontological framework for the representation and capture of business model-related knowledge"
+* **[2026- ]** Thesis co-director of [Jing Li](https://www.linkedin.com/in/jing-li-b80205294) for her PhD co-supervised with Mathieu Sannié (Orange) and [Raphaël Troncy](https://www.eurecom.fr/~troncy/) ([EURECOM](http://www.eurecom.fr)), "Design of an ontological framework for the representation and capture of business model-related knowledge"
 * **[2025- ]** Thesis co-director of [Carmelle Meli Sunguon](https://www.eurecom.fr/fr/people/meli-songuon-carmelle) for her PhD co-supervised with [Raphaël Troncy](https://www.eurecom.fr/~troncy/) ([EURECOM](http://www.eurecom.fr)), "Integration and Traceability of Knowledge in a GraphRAG-based Question-Answering System"
 * **[2023- ]** Thesis co-director of [Lucas Jarnac](https://scholar.google.com/citations?user=O24FhxkAAAAJ&hl=fr) for his PhD co-supervised with [Miguel Couceiro](https://members.loria.fr/mcouceiro/) ([LORIA](https://www.loria.fr/en/)), "Reconciling uncertain knowledge to improve knowledge graphs"
 * **[2024- ]** Apprenticeship supervisor of Léna Abel at [UTBM](https://www.utbm.fr/), "Développement d’outils de construction de graphes de connaissances d’entreprise". Co-supervision with Frédéric Deuzé.
