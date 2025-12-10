@@ -4,6 +4,17 @@ title: "Open-source Code"
 author_profile: true
 ---
 
+## TrustFuse
+
+[GitHub](https://github.com/Orange-OpenSource/trustfuse)🔗
+
+This repository proposes a playground to experiment with knowledge fusion models in a knowledge graph (KG) construction context. 
+We also propose a dataset built from the full revision history of Wikidata since its creation in 2012 for a Wikipedia category, which we have called WikiConflict. 
+
+<a href="https://github.com/Orange-OpenSource/trustfuse">
+  <img src="{{ site.baseurl }}/images/trustfuse.png" alt="TrustFuse">
+</a>
+
 ## Table Annotation (DAGOBAH)
 
 [GitHub](https://github.com/Orange-OpenSource/Table-Annotation)🔗
