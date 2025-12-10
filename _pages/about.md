@@ -19,6 +19,9 @@ My research focuses on the use of **knowledge engineering** in different applica
 Enjoy your visit!
 
 # 🚀News
+* **[2026-01]** Thesis co-director of Jing Li for her PhD co-supervised with EURECOM
+* **[2025-12]** Thesis co-director of Carmelle Meli Songuon for her PhD co-supervised with EURECOM
+* **[2025-12]** 📄 Three papers accepted at KCAP2025 ([paper](https://yoanchabot.github.io/publications.html#kcap_2025_a))
 * **[2025-06]** 📄 SOTA paper accepted in TGDK ([paper](https://yoanchabot.github.io/publications.html#tgdk_2024))
 * **[2025-02]** [Holonet Galactic Encyclopedia](https://holonetgalacticmap-frontend.vercel.app/) has been named "Tool of the Week" by Wikidata
 * **[2025-01]** 📄 Three new papers available on ArxiV (see [publications](https://yoanchabot.github.io/publications.html))
