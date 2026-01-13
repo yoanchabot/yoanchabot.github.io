@@ -26,6 +26,7 @@ author_profile: true
 ### Technical
 * **[2025]**
   * Retrieval Augmented Generation (RAG). [Coursera Certificate](https://github.com/yoanchabot/papers/raw/main/Coursera_08XM5HV02CC4.pdf). Description: design and build RAG systems tailored to real-world needs, weigh tradeoffs between cost, speed, and quality to choose the right techniques for each component of a RAG system, foundational framework to adapt RAG systems as new tools and methods emerge.
+  * Agentic AI: Fundamentals of Agents. [Hugging Face Certificate](https://github.com/yoanchabot/papers/raw/main/hf_agentic_ai.png). 
   * Generative AI and Large Language Models. [Coursera Certificate](https://github.com/yoanchabot/papers/raw/main/Coursera_LE7EDFJT27XV.pdf). Description: Comprehensive understanding of generative models, including their evolution, applications, and the underlying architectures that make them possible. Explore various generative techniques such as GANs, VAEs, diffusion models, and multimodal AI.
   * Programming in Python by Meta, 5 weeks training. [Coursera Certificate](https://github.com/yoanchabot/papers/raw/main/Coursera_LHIP024B28HC.pdf). Description: Deep dive into the Python ecosystem and popular modules, libraries and tools for Python.
 * **[2024]**
