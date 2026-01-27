@@ -24,6 +24,8 @@ author_profile: true
 
 ## Training & Certifications
 ### Technical
+* **[2026]**
+ * Designing Agents with LangChain and LangGraph, 21h training. Description: core philosophy and strategic value of Agentic AI—focusing on planning, reasoning, and action. Hands-on expertise in LangChain’s technical foundations, autonomous agents using the ReAct reasoning model with LangGraph. The training also covers orchestrating multi-agent systems, including specialized agents/router agent, and concludes with cost optimization, quality assurance, and secure deployment in production environments.
 * **[2025]**
   * Retrieval Augmented Generation (RAG). [Coursera Certificate](https://github.com/yoanchabot/papers/raw/main/Coursera_08XM5HV02CC4.pdf). Description: design and build RAG systems tailored to real-world needs, weigh tradeoffs between cost, speed, and quality to choose the right techniques for each component of a RAG system, foundational framework to adapt RAG systems as new tools and methods emerge.
   * Agentic AI: Fundamentals of Agents. [Hugging Face Certificate](https://github.com/yoanchabot/papers/raw/main/hf_agentic_ai.png). 
