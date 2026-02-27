@@ -8,13 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a researcher in the DATA-IA entity at [Orange](https://hellofuture.orange.com/) since 2014. 
-I am leading several research and anticipation projects in the field of Knowledge Engineering and NLP.
+I am currently a researcher in the INNOVATION/DATA-AI entity at [Orange](https://hellofuture.orange.com/) Research since 2014. 
+I am leading research and anticipation projects leveraging knowledge graphs, NLP, and Agentic AI to extract actionable insights from enterprise data and enhance information retrieval systems with LLMs.
 I hold a PhD (2014) from the [University of Burgundy](http://www.ubfc.fr/) and the [University College Dublin](https://www.ucd.ie/).
-
-My research focuses on the use of **knowledge engineering** in different application contexts:
-* For characterization, research and recommendation and life cycle management of **datasets**.
-* For the detection of illegal activities in the context of **cybersecurity** projects.
 
 Enjoy your visit!
 
