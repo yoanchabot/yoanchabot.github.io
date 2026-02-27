@@ -39,6 +39,7 @@ Some great books I love and recommend (for SF and heroic fantasy lovers):
 ## Sports
 ![Running]({{ site.baseurl }}/images/running.jpg "Running")
 
+I do a lot of indoor cycling. You can find me on Zwift.
 I do trails and a bit of road running for fun but also in competitions.
 Here are some nice races in French-County or nearby:
 * [Le semi-marathon du lion de Belfort](https://www.lelion.org/)
