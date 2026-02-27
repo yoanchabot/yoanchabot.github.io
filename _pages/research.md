@@ -4,6 +4,18 @@ title: "Research Projects"
 author_profile: true
 ---
 
+<a name="knowledge"></a> 
+## Knowledge
+**Keywords:** Knowledge Graph, Large Language Models, Data Management
+
+**Context and Highlights:**
+* Creation of Knowledge in 2023
+* Project manager with a research team of approx. 20 people
+
+**Overview:** 
+I am leading a research project named Knowledge at Orange. This project contributes to advances in the scientific and technological state of the art in natural language processing and knowledge engineering. These breakthroughs are then applied to new value-added service concepts for the Orange Group. The project brings together about 15 to 20 researchers and engineers in the fields of NLP and knowledge engineering.
+
+
 <a name="ecladatta"></a> 
 ## ECLADATTA 
 **Keywords:** Knowledge Extraction, Knowledge Graph, Joint Extraction Text/Table
@@ -19,18 +31,6 @@ The ECLADATTA project aims at leveraging the complementarity between tables, tex
 * to refine tables, texts, and general or domain-specific knowledge graphs
 
 More info on the official Website: [ECLADATTA](https://ecladatta.github.io/)
-
-
-<a name="knowledge"></a> 
-## Knowledge
-**Keywords:** Knowledge Graph, Large Language Models, Data Management
-
-**Context and Highlights:**
-* Creation of Knowledge in 2023
-* Project manager with a research team of approx. 20 people
-
-**Overview:** 
-I am leading a research project named Knowledge at Orange. This project contributes to advances in the scientific and technological state of the art in natural language processing and knowledge engineering. These breakthroughs are then applied to new value-added service concepts for the Orange Group. The project brings together about 15 to 20 researchers and engineers in the fields of NLP and knowledge engineering.
 
 
 <a name="noria"></a> 
