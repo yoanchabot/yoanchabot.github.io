@@ -30,6 +30,7 @@ Ensemble, nous pouvons enrichir cette base pour en faire une référence utile �
 * Papier "Pour une entrée en communication de l'enfant sourd" ([accéder au papier](https://www.acfos.org/wp-content/uploads/comprendre/jeminterroge/collette.pdf)).
 * Un portail contenant des liens vers des jeux pour la rééducation orthophonique ([accéder au portail](https://pro.docorga.com/blog/actualites/top-jeux-exercices-gratuits-reeducation-a-la-maison/)).
 * "100 idées pour aider un enfant sourd à communiquer en français" de Françoise Cattoni-Larroche et Brigitte Maunoury-Loisel, un livre traitant de nombreux sujets pratiques liés à la surdité ([accéder sur la FNAC](https://www.fnac.com/a7160905/Cattoni-Lar-100-idees-pour-aider-un-enfant-sourd-a-communiquer-en-francais)).
+* Un excellent livret illustré élaboré par l'Hôpital Universitaire Necker-Enfants sur le problème spécifique de l'aplasie d'oreille ([accéder au livret](https://www.tete-cou.fr/site/Livret_aplasie_doreillepdf-fr-388-2.html)). 
 
 ### Se former à la Langue des Signes Française (LSF)
 * Formation accessible sur le site de la Fondation Voltaire ([accéder à la formation](https://lsf.fondation-voltaire.fr/landing)).
