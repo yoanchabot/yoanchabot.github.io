@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a researcher in the INNOVATION/DATA-AI entity at [Orange](https://hellofuture.orange.com/) Research since 2014. 
-I am leading research and anticipation projects leveraging knowledge graphs, NLP, and Agentic AI to extract actionable insights from enterprise data and enhance information retrieval systems with LLMs.
-I hold a PhD (2014) from the [University of Burgundy](http://www.ubfc.fr/) and the [University College Dublin](https://www.ucd.ie/).
+I am a researcher at [Orange](https://hellofuture.orange.com/) Research since 2014, specializing in knowledge graphs and their interactions with large language models. For over a decade, I have been designing systems to extract actionable knowledge from enterprise data and improve information retrieval pipelines.
+I hold a PhD in Computer Science (joint degree, [University of Burgundy](http://www.ubfc.fr/)/[University College Dublin](https://www.ucd.ie/)) and have led projects such as Telcograph, NORIA, and DAGOBAH, authored more than 40 peer-reviewed publications, and received several international scientific awards. I have been a member of the Orange Expert Big Data & AI community since 2023, and I am actively involved as chair or program committee member in several leading international conferences.
+I now lead the Trustworthy and Sustainable AI research program within Orange Research, a natural continuation of my scientific, managerial, and strategic commitments within the Orange Group.
 
 Enjoy your visit!
 
