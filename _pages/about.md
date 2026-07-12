@@ -16,6 +16,9 @@ I now lead the Trustworthy AI research program within Orange Research, a natural
 Enjoy your visit!
 
 # 🚀News
+* **[2026-07]** Appointed Research Programme Director for Trustworthy & Sustainable AI @Orange Research
+* **[2026-07]** Congrats to Dr Jarnac for passing his PhD viva! 🎆
+* **[2026-06]** Paper accepted in Computing Surveys ([paper)](https://yoanchabot.github.io/publications.html#cs_2025)
 * **[2025-12]** Thesis co-director of Carmelle Meli Songuon for her PhD co-supervised with EURECOM
 * **[2025-12]** 📄 Three papers accepted at KCAP2025 ([paper](https://yoanchabot.github.io/publications.html#kcap_2025_a))
 * **[2025-06]** 📄 SOTA paper accepted in TGDK ([paper](https://yoanchabot.github.io/publications.html#tgdk_2024))
